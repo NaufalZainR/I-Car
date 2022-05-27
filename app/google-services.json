@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600573605823",
+    "project_id": "i-car-8a49e",
+    "storage_bucket": "i-car-8a49e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600573605823:android:d7a5a8b0da9250e3c2130a",
+        "android_client_info": {
+          "package_name": "org.tubes.icar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600573605823-3fi399mnlu26ftt8cohpc3lpfb70pau4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tubes.icar",
+            "certificate_hash": "835a944223470f0c4b9bc86d4c847a19406289b1"
+          }
+        },
+        {
+          "client_id": "600573605823-e8215lhjv44pt42mp0agn6vu7jr4o2j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7keBHGbqUCv09keEErOd8CjHboXyaEcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600573605823-e8215lhjv44pt42mp0agn6vu7jr4o2j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
