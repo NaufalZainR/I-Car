@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_bmwactivity.xml" value="0.2765625" />
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_daihatsu.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_honda.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_hyundai.xml" value="0.33" />
         <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_login.xml" value="0.34479166666666666" />
         <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_mercedez.xml" value="0.2765625" />
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_mitshubishi.xml" value="0.2765625" />
         <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_register.xml" value="0.34479166666666666" />
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_suzuki.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_toyota.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2545" />
       </map>
     </option>
   </component>
