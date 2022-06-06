@@ -3,6 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout-v26/activity_bmwi8.xml" value="0.17447916666666666" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_bmwactivity.xml" value="0.22" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_bmwi8.xml" value="0.22" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_daihatsu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_honda.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_hyundai.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_mercedez.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_mitshubishi.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_register.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_suzuki.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_toyota.xml" value="0.22" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_bmw.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_bmwi8.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_daihatsu.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_dashboard.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_honda.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_hyundai.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_mercedez.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_mitshubishi.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_suzuki.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/fragment_toyota.xml" value="0.16145833333333334" />
         <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_bmwactivity.xml" value="0.2765625" />
         <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_daihatsu.xml" value="0.33" />
         <entry key="..\:/Kuliah/Semester 4/Android/ICar/app/src/main/res/layout/activity_honda.xml" value="0.25" />

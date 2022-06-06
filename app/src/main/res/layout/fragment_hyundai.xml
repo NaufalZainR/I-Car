@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".HyundaiFragment">
 
     <LinearLayout
         android:orientation="vertical"
@@ -23,7 +23,7 @@
                 android:id="@+id/txtdashboard"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Suzuki"
+                android:text="Hyundai"
                 android:textColor="#FF000000"
                 android:textSize="20dp" />
 
@@ -62,7 +62,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/baleno"
+                        android:src="@drawable/ioniq5"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -71,7 +71,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Baleno"/>
+                        android:text="Ioniq 5"/>
 
 
                 </LinearLayout>
@@ -98,7 +98,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/ertiga"
+                        android:src="@drawable/creta"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -107,7 +107,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Ertiga"/>
+                        android:text="Creta"/>
 
 
                 </LinearLayout>
@@ -135,7 +135,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/jimny"
+                        android:src="@drawable/staria"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -144,7 +144,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Jimny"/>
+                        android:text="Staria"/>
 
 
                 </LinearLayout>
@@ -172,7 +172,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/ignis"
+                        android:src="@drawable/kona"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -181,7 +181,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Ignis"/>
+                        android:text="Kona Electric"/>
 
 
                 </LinearLayout>
@@ -208,7 +208,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/karimun"
+                        android:src="@drawable/palisade"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -217,7 +217,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Karinmun Wagon R"/>
+                        android:text="Palisade"/>
 
 
                 </LinearLayout>
@@ -244,7 +244,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/spreso"
+                        android:src="@drawable/santa"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -253,7 +253,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="S-preso"/>
+                        android:text="Santa FE"/>
 
 
                 </LinearLayout>
@@ -262,6 +262,7 @@
 
             //Voxy
             <androidx.cardview.widget.CardView
+
 
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -279,7 +280,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/sx4"
+                        android:src="@drawable/cester"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -288,7 +289,8 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="SX 4"/>
+                        android:text="Cester"/>
+
 
                 </LinearLayout>
 
@@ -314,7 +316,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/xl7"
+                        android:src="@drawable/tucson"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -323,7 +325,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="XL 7"/>
+                        android:text="Tucson"/>
 
                 </LinearLayout>
 

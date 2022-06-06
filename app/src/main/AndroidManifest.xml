@@ -10,44 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ICar">
         <activity
-            android:name=".SuzukiActivity"
-            android:exported="false" />
-        <activity
-            android:name=".HyundaiActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MercedezActivity"
-            android:exported="false" />
-        <activity
-            android:name=".BMWActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MitshubishiActivity"
-            android:exported="false" />
-        <activity
-            android:name=".HondaActivity"
-            android:exported="false" />
-        <activity
-            android:name=".DaihatsuActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ToyotaActivity"
-            android:exported="false" />
-        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity
+            android:name=".MainActivity"
+            android:exported="false"/>
+        <activity
             android:name=".LoginActivity"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MainActivity"
-            android:exported="false" />
     </application>
 
 </manifest>

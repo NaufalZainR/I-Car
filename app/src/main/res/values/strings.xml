@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">I Car</string>
+    <string name="i8_eks">
+        Mobil BMW i8 merupakan mobil dengan desain eksterior futuristik yang tak pernah lekang oleh
+        zaman, atau tak pernah bosan jika mata memandang. Selain itu, sebenarnya mobil ini mempunyai
+        desain seperti mobil konsep.
+
+        Desainnya sendiri mobil BMW i8 memang merupakan supercar. Hal ini tampak pada garis bodinya yang menjadi ciri khas sebuah mobil besar dengan tenaga gahar. Bisa terlihat dari kap mesin yang datar, berbagai perangkat aerodinamika, overhang pendek, whellbase panjang dan trek roda besar.
+
+        Sebagai mobil berdesain supercar, nyatanya mobil BMW i8 merupakan mobil hybrid. Ramah Lingkungan Dong! Sebagai mobil ramah lingkungan.
+    </string>
+
+    <string name="i8_int">
+        Berstatus sebagai mobil hybrid dan supercar yang terlihat jelas dari desain eksteriornya, tentu urusan interior memiliki desain yang futuristik juga. Tidak hanya itu, kesan canggih dan mewah sudah pasti terasa.
+
+Posisi berkendara juga cukup rendah dan untuk masuk dan keluar kabin perlu usaha keras. Namanya juga Supercar! Karena hal tersebut juga, bagian kabin akan terasa sempit khususnya dibagian kursi belakang. Lebih cocok bagian kursi belakang mobil BMW i8 digunakan untuk tempat menyimpan barang.
+
+Menunggangi mobil ini akan terasa berada di mobil balap sungguhan, karena posisi berkendara yang pendek dan rendah. Sebagai mobil supercar hybrid yang laris di pasaran.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="org.tubes.icar.DashboardFragment"
+        android:label="I Car" >
+        <action
+            android:id="@+id/action_dashboardFragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_mercedezFragment"
+            app:destination="@id/mercedezFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_toyotaFragment"
+            app:destination="@id/toyotaFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_mitshubishiFragment"
+            app:destination="@id/mitshubishiFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmwFragment"
+        android:name="org.tubes.icar.BmwFragment"
+        android:label="I Car" >
+        <action
+            android:id="@+id/action_bmwFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_bmwFragment_to_bmwi8Fragment"
+            app:destination="@id/bmwi8Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mercedezFragment"
+        android:name="org.tubes.icar.MercedezFragment"
+        android:label="I Car"
+        tools:layout="@layout/fragment_mercedez" >
+        <action
+            android:id="@+id/action_mercedezFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukiFragment"
+        android:name="org.tubes.icar.SuzukiFragment"
+        android:label="I Car"
+        tools:layout="@layout/fragment_suzuki" >
+        <action
+            android:id="@+id/action_suzukiFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsuFragment"
+        android:name="org.tubes.icar.DaihatsuFragment"
+        android:label="I Car"
+        tools:layout="@layout/fragment_daihatsu" >
+        <action
+            android:id="@+id/action_daihatsuFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaiFragment"
+        android:name="org.tubes.icar.HyundaiFragment"
+        android:label="I Car"
+        tools:layout="@layout/fragment_hyundai" >
+        <action
+            android:id="@+id/action_hyundaiFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/toyotaFragment"
+        android:name="org.tubes.icar.ToyotaFragment"
+        android:label="I Car"
+        tools:layout="@layout/fragment_toyota" >
+        <action
+            android:id="@+id/action_toyotaFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mitshubishiFragment"
+        android:name="org.tubes.icar.MitshubishiFragment"
+        android:label="I Car"
+        tools:layout="@layout/fragment_mitshubishi" >
+        <action
+            android:id="@+id/action_mitshubishiFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondaFragment"
+        android:name="org.tubes.icar.HondaFragment"
+        android:label="I Car"
+        tools:layout="@layout/fragment_honda" >
+        <action
+            android:id="@+id/action_hondaFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmwi8Fragment"
+        android:name="org.tubes.icar.bmw.Bmwi8Fragment"
+        android:label="I Car" >
+        <action
+            android:id="@+id/action_bmwi8Fragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+    </fragment>
+</navigation>

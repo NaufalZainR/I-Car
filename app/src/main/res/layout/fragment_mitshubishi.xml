@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MitshubishiFragment">
 
     <LinearLayout
         android:orientation="vertical"
@@ -23,7 +23,7 @@
                 android:id="@+id/txtdashboard"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Honda"
+                android:text="Mitshubishi"
                 android:textColor="#FF000000"
                 android:textSize="20dp" />
 
@@ -62,7 +62,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/brio"
+                        android:src="@drawable/xpander"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -71,7 +71,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Brio"/>
+                        android:text="Xpander"/>
 
 
                 </LinearLayout>
@@ -98,7 +98,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/hrv"
+                        android:src="@drawable/pajero"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -107,7 +107,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="HRV"/>
+                        android:text="Pajero Sport"/>
 
 
                 </LinearLayout>
@@ -135,7 +135,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/brv"
+                        android:src="@drawable/triton"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -144,7 +144,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="BRV"/>
+                        android:text="Triton"/>
 
 
                 </LinearLayout>
@@ -172,7 +172,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/crv"
+                        android:src="@drawable/outlander"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -181,7 +181,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="CRV"/>
+                        android:text="Outlander PHEV"/>
 
 
                 </LinearLayout>
@@ -208,7 +208,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/mobilio"
+                        android:src="@drawable/colt"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -217,7 +217,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Mobilio"/>
+                        android:text="Colt"/>
 
 
                 </LinearLayout>
@@ -244,7 +244,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/city"
+                        android:src="@drawable/l300"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -253,7 +253,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="City"/>
+                        android:text="L300"/>
 
 
                 </LinearLayout>
@@ -280,7 +280,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/civic"
+                        android:src="@drawable/eclipse"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -289,7 +289,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Civic Type R"/>
+                        android:text="Eclipse Cross"/>
 
 
                 </LinearLayout>
@@ -316,7 +316,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/acord"
+                        android:src="@drawable/triton4x4"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -325,7 +325,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Accord"/>
+                        android:text="Triton 4x4"/>
 
                 </LinearLayout>
 

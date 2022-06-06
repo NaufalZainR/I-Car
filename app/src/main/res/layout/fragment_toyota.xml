@@ -4,13 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ToyotaFragment">
 
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
 
         <RelativeLayout
             android:layout_marginTop="32dp"
@@ -23,7 +22,7 @@
                 android:id="@+id/txtdashboard"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Mitshubishi"
+                android:text="Toyota"
                 android:textColor="#FF000000"
                 android:textSize="20dp" />
 
@@ -62,7 +61,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/xpander"
+                        android:src="@drawable/corola"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -71,7 +70,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Xpander"/>
+                        android:text="All New Corolla Cross"/>
 
 
                 </LinearLayout>
@@ -98,7 +97,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/pajero"
+                        android:src="@drawable/fortuner"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -107,9 +106,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Pajero Sport"/>
-
-
+                        android:text="New Fortuner GR Sport"/>
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
@@ -135,7 +132,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/triton"
+                        android:src="@drawable/rush"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -144,9 +141,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Triton"/>
-
-
+                        android:text="New Rush GR Sport"/>
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
@@ -172,7 +167,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/outlander"
+                        android:src="@drawable/raize"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -181,7 +176,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Outlander PHEV"/>
+                        android:text="All New Raize GR Sport"/>
 
 
                 </LinearLayout>
@@ -208,7 +203,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/colt"
+                        android:src="@drawable/velfire"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -217,7 +212,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Colt"/>
+                        android:text="New Vellfire"/>
 
 
                 </LinearLayout>
@@ -244,7 +239,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/l300"
+                        android:src="@drawable/calya"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -253,7 +248,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="L300"/>
+                        android:text="New Calya"/>
 
 
                 </LinearLayout>
@@ -280,7 +275,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/eclipse"
+                        android:src="@drawable/voky"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -289,7 +284,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Eclipse Cross"/>
+                        android:text="All New Voxy"/>
 
 
                 </LinearLayout>
@@ -316,7 +311,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/triton4x4"
+                        android:src="@drawable/velfire"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -325,7 +320,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Triton 4x4"/>
+                        android:text="New Sienta"/>
 
                 </LinearLayout>
 

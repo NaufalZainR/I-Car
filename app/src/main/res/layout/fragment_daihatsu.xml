@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".DaihatsuFragment">
 
     <LinearLayout
         android:orientation="vertical"
@@ -23,7 +23,7 @@
                 android:id="@+id/txtdashboard"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Hyundai"
+                android:text="Daihatsu"
                 android:textColor="#FF000000"
                 android:textSize="20dp" />
 
@@ -62,7 +62,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/ioniq5"
+                        android:src="@drawable/xenia"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -71,7 +71,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Ioniq 5"/>
+                        android:text="Xenia"/>
 
 
                 </LinearLayout>
@@ -98,7 +98,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/creta"
+                        android:src="@drawable/sigra"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -107,7 +107,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Creta"/>
+                        android:text="Sigra"/>
 
 
                 </LinearLayout>
@@ -135,7 +135,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/staria"
+                        android:src="@drawable/terios"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -144,7 +144,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Staria"/>
+                        android:text="Terios"/>
 
 
                 </LinearLayout>
@@ -172,7 +172,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/kona"
+                        android:src="@drawable/rocky"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -181,7 +181,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Kona Electric"/>
+                        android:text="Rocky"/>
 
 
                 </LinearLayout>
@@ -208,7 +208,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/palisade"
+                        android:src="@drawable/sirion"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -217,7 +217,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Palisade"/>
+                        android:text="Sirion"/>
 
 
                 </LinearLayout>
@@ -244,7 +244,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/santa"
+                        android:src="@drawable/alya"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -253,7 +253,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Santa FE"/>
+                        android:text="Alya"/>
 
 
                 </LinearLayout>
@@ -262,7 +262,6 @@
 
             //Voxy
             <androidx.cardview.widget.CardView
-
 
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -280,7 +279,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/cester"
+                        android:src="@drawable/luxio"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -289,8 +288,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Cester"/>
-
+                        android:text="Luxio"/>
 
                 </LinearLayout>
 
@@ -316,7 +314,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/tucson"
+                        android:src="@drawable/granmax"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -325,7 +323,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:textColor="#000"
-                        android:text="Tucson"/>
+                        android:text="Gran Max MB"/>
 
                 </LinearLayout>
 
