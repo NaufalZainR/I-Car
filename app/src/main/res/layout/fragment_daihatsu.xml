@@ -46,6 +46,7 @@
 
             //Corola//
             <androidx.cardview.widget.CardView
+                android:id="@+id/btnXenia"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -80,8 +81,7 @@
 
             //Fortuner
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnSigra"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -117,8 +117,7 @@
 
             //Rush
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnTerios"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -154,8 +153,7 @@
 
             //Raize
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnRocky"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -190,8 +188,7 @@
 
             //Vellfire
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnSirion"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -226,8 +223,7 @@
 
             //Calya
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnAlya"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -262,7 +258,7 @@
 
             //Voxy
             <androidx.cardview.widget.CardView
-
+                android:id="@+id/btnLuxio"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -296,8 +292,7 @@
 
             //Sienta
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnGrandmax"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"

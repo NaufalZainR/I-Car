@@ -1,21 +1,769 @@
 <resources>
     <string name="app_name">I Car</string>
+
+    <!--    BMWi8-->
     <string name="i8_eks">
         Mobil BMW i8 merupakan mobil dengan desain eksterior futuristik yang tak pernah lekang oleh
         zaman, atau tak pernah bosan jika mata memandang. Selain itu, sebenarnya mobil ini mempunyai
         desain seperti mobil konsep.
-
+        \n
+        \n
         Desainnya sendiri mobil BMW i8 memang merupakan supercar. Hal ini tampak pada garis bodinya yang menjadi ciri khas sebuah mobil besar dengan tenaga gahar. Bisa terlihat dari kap mesin yang datar, berbagai perangkat aerodinamika, overhang pendek, whellbase panjang dan trek roda besar.
-
+        \n
+        \n
         Sebagai mobil berdesain supercar, nyatanya mobil BMW i8 merupakan mobil hybrid. Ramah Lingkungan Dong! Sebagai mobil ramah lingkungan.
     </string>
 
     <string name="i8_int">
         Berstatus sebagai mobil hybrid dan supercar yang terlihat jelas dari desain eksteriornya, tentu urusan interior memiliki desain yang futuristik juga. Tidak hanya itu, kesan canggih dan mewah sudah pasti terasa.
+        \n
+        \n
+        Posisi berkendara juga cukup rendah dan untuk masuk dan keluar kabin perlu usaha keras. Namanya juga Supercar! Karena hal tersebut juga, bagian kabin akan terasa sempit khususnya dibagian kursi belakang. Lebih cocok bagian kursi belakang mobil BMW i8 digunakan untuk tempat menyimpan barang.
+        \n
+        \n
+        Menunggangi mobil ini akan terasa berada di mobil balap sungguhan, karena posisi berkendara yang pendek dan rendah. Sebagai mobil supercar hybrid yang laris di pasaran.
+    </string>
 
-Posisi berkendara juga cukup rendah dan untuk masuk dan keluar kabin perlu usaha keras. Namanya juga Supercar! Karena hal tersebut juga, bagian kabin akan terasa sempit khususnya dibagian kursi belakang. Lebih cocok bagian kursi belakang mobil BMW i8 digunakan untuk tempat menyimpan barang.
+    <!--    BMW x7-->
+    <string name="x7_eks">
+        BMW X7 memiliki desain eksterior yang gagah dan maskulin, sangat sesuai dengan citranya sebagai mobil SUV premium. Mobil BMW X7 ini didesain sedemikian rupa dengan memperhatikan berbagai detail sehingga menghasilkan desain yang atraktif.
+        \n
+        \n
+        BMW X7 bisa dibilang merupakan salah satu mobil BMW dengan bodi terbesar yang ada di pasaran. Mobil SUV yang satu ini tampak gagah dengan bodinya yang bongsor.
+    </string>
 
-Menunggangi mobil ini akan terasa berada di mobil balap sungguhan, karena posisi berkendara yang pendek dan rendah. Sebagai mobil supercar hybrid yang laris di pasaran.
+    <string name="x7_int">
+        Bagian interior BMW X7 menghadirkan kesan modern dan futuristik. Desain dashboard-nya yang minimalis membuat pecinta otomotif manapun akan jatuh cinta melihat desain interiornya.
+Tidak hanya memiliki desain yang menawan, interior BMW X7 ini juga menghadirkan kenyamanan lebih yang membuat para konsumennya betah berlama-lama berada di dalam mobil yang satu ini. Kapasitas penumpangnya sendiri mencapai 7 orang penumpang.
+        \n
+        \n
+        BMW X7 dilengkapi adjustable headrest dan electric rear seats folding. Kursi-kursinya sendiri sudah berlapis material kulit sehingga tidak hanya nyaman, tetapi juga terkesan mewah. Pengaturan kursi-kursinya pun sudah menggunakan pengaturan elektrik sehingga lebih fleksibel. Untuk menjamin udara di dalam kabin tetap sejuk, BMW X7 ini sudah menggunakan Automatic Air Conditioning with 5 zone control dengan AC tambahan pada barisan ketiga sehingga udara sejuk merata bisa sampai pada barisan belakang.
+    </string>
+
+    <!--    BMW m4-->
+    <string name="m4_eks">
+        Detail gril depan berukuran besar yang dikenal cukup kontroversial juga dibuat berbeda, di mana pattern grilnya berubah dari mesh di Seri 4 berubah menjadi pattern bar yang disusun secara horizontal dengan finishing black glossy. Mobil ini dibekali dengan velg berukuran 19 inci di depan dengan profil ban 275/35ZR19, dan 20 inci di belakang dengan profil ban 285/30ZR20. Berbeda dengan M4 standard dengan velg lebih kecil.
+        \n
+        \n
+        spoiler belakang berukuran kecil membuatnya sedikit lebih manis. Desain lampu BMW M4 mengikuti Seri 4 dengan bentuk yang lebih langsing dengan pattern yang lebih dinamis. Untuk memberikan kesan agresif, lampu tersebut diberi finishing smoke black.
+    </string>
+
+    <string name="m4_int">
+        Material soft touch, dengan aksen Alumunium Tetragon menghadirkan kesan mewah dan sporty di dasbor. Jika menginginkan aura balap yang lebih kental, ada opsi material karbon yang disiapkan oleh BMW. Sistem ini sudah mendukung konektivitas Apple CarPlay serta Android Auto secara wireless, dan fitur voice command BMW Intelligent Personal Assistant dengan tampilan menu dan head-up display khas BMW M.
+        \n
+        \n
+        Tombol setup mengakses menu pengaturan dinamika berkendara di mana pengemudi dapat melakukan personalisasi setting performa mobil lewat tujuh parameter seperti respon mesin, gear shift assistant, M Traction Control, electronic damper, power steering, pengereman, sampai M xDrive System.
+    </string>
+
+    <!--    BMW z4-->
+    <string name="z4_eks">
+        Fascia depan BMW Z4 sDrive30i M Sport 2019 hadir dengan kidney grille yang hadir dengan desain lebih pipih dan lebar, serta mengusung aksen honeycomb dan aksen detil vertikal yang menarik dan terinspirasi akan dunia balap. BMW Z4 sDrive30i M Sport 2019 dilengkapi dengan Headlight Adaptive LED dengan high-beam assistant. Kap mesin BMW dirancang memanjang dengan garis kontur berbentuk panah yang menuju kidney grille, serta tetap mempertahankan karakteristik gaya bukaan kap mesin "clamshell" yang terinspirasi oleh desain kap mesin mobil sport klasik.
+        \n
+        \n
+        Desain kap mesin yang bersinergi apik dengan sisi fender depan, turut memaksimalkan tarikan garis bodi di sisi samping hingga ke area taillight. BMW juga menghadirkan desain air breather di fender depan, yang kemudian membentuk tarikan desain yang cukup kentara hingga area pintu dan buritan belakang. Dan selayaknya BMW Z4 yang merupakan roadster, atap mobil ini menggunakan format soft top yang mengadopsi material berkualitas tinggi. Atap ini bisa dibuka-ditutup hanya memakan waktu 10 detik, dan bisa dilakukan sembari berkendara dengan kecepatan di bawah 50 km/jam.
+        \n
+        \n
+        Buritan belakang BMW Z4 sDrive30i M Sport 2019 memiliki detil rear spoiler yang terintegrasi harmonis dengan pintu bagasi. Desain taillight LED dengan desain ramping secara horizontal dalam L shape memberikan All-New BMW Z4 tampilan lebih lebar. Adapun untuk pintu bagasi bisa dibuka secara manual tanpa ada mekanisme otomatis. Di bagian bumper bawah terdapat twin tailipipe dengan elemen lekukan khas diffuser.
+    </string>
+
+    <string name="z4_int">
+        Karena ruang kokpit yang sangat kompak untuk dua penumpang dewasa, maka secara penempatan tombol fitur di BMW Z4 sDrive30i M Sport 2019 tergolong lebih driver oriented, serta dikemas dengan trim Aluminium Tetragon dan . Konsep dashboard yang modern dan futuristik terasa lewat penggunaan layar BMW Live Cockpit Professional untuk instrument cluster, serta layar Control Display dengan ukuran 10.25 inci. Mobil ini pun menggunakan jok sports seats bespoke yang memiliki sandaran kepala terintegrasi. Jok ini dibalut detil Vernascha Leather, serta memiliki contrast stitching, piping khusus dan seatbelt dengan motif khas BMW M.  Dan untuk setir menggunakan  M Leather steering wheel dengan tombol pengatur audio dan cruise control, serta paddle shift untuk perpindahan gigi transmisi.
+    </string>
+
+    <!--    BMW 520i-->
+    <string name="i520_eks">
+        Pada fascia depan, ubahan paling jelas untuk BMW 520i M Sport 2021 terlihat  berupa grille yang kini lebih besar. Desain lampunya tampil lebih dinamis, didukung adaptive headlight  LED, BMW Selective Beam serta  LED daytime-running lihgt (DRL) serta BMW Laserlight sebagai perangkat standar. Untuk lampu depan kini tampilannya semakin tegas dengan siluet huruf L.
+        \n
+        \n
+        Pancaran sinar laser dari lampu depan memberikan pencahayaan untuk lampu jauh (high beam) hingga 530 meter tanpa menyilaukan mata pengemudi kendaraan lain yang berada pada arah berlawanan. Untuk bemper depan BMW 520i M Sport 2021 terdapat  tiga buah lubang udara dengan panel honeycomb yang  sporty namun hanya bagian tengah yang menyalurkan aliran udara dari arah depan menuju sistem induksi mesin.
+        \n
+        \n
+        Secara umum, BMW 520i M Sport 2021 adalah model yang menjalani program LCI alias facelift. Dari segi desain, tidak ada yang berubah secara signifikan. Side air vent tetap berada di bawah fender depan, kecuali  untuk varian plug-in hyrbrid dengan colokan pengisian  di bagian depan.
+        \n
+        \n
+        Dalam kondisi standar, BMW Seri 5  dilengkapi dengan velg  17 inci dan tersedia opsi velg 18 inci - 20 inci. Untuk varian BMW 520i M Sport 2021 tampil dengan velg alloy  19 inci bergaya Y Spoke Bicolour yang lebih modis dan selaras dengan gaya penampilan  eksekutif kelas atas (sedikit di bawah Seri 7).
+    </string>
+
+    <string name="i520_int">
+        Memasuki kabin BMW 520i M Sport 2021 langsung terasa suasana cockpit yang padat namun lapang. Ya karena BMW Seri 5 adalah sedan medium, bukan sedan kompak seperti BMW Seri 3. Cockpit didominasi oleh dua layar monitor berukuran 12,3 inci untuk sistem infotainment dan panel instrumen. Secara umum kini varian  BMW 520i M Sport 2021 menjadi lebih  mewah dan sporty setelah menjalani program LCI.
+        \n
+        \n
+        Aura berkelas dipancarkan ornamen dashboard berupa Aluminium Rhombicle Smoke Grey, lis panel Pearl Chrome, Galvanic Embellisher dan M Leather Steering Wheel. Mengingat status BMW Seri 5 sebagai sedan eksekutif, maka fitur Gesture Control, integrasi gawai, AC otomatis dengan tambahan blower untuk penumpang belakang hingga wireless charging untuk ponsel menjadi kelengkapan standar. Kemudi M Sport model 3-spoke tampil sporty disertai tombol-tombol untuk mengakses fungsi sistem audio dan cruise control.
+        \n
+        \n
+        Kursi model sport didukung pengaturan elektrik yang lengkap sehingga pengemudi  mudah mendapatkan posisi mengemudi yang paling optimal termasuk fitur memory seat dan penyetelan lumbar support sehingga tubuh seperti didekap dengan erat.
+        \n
+        \n
+        Joknya dilapisi kulit berpori dengan  motif pola belah ketupat yang unik dan berkarakter sporty. Sementara bagi penghuni kursi baris kedua tersedia pengaturan AC multiple zone dengan blower tambahan sehingga penumpang belakang mendapatkan kenyamanan terbaik. O iya tidak lupa fitur penting berupa wireless charging agar konektivitas ponsel selalu maksimal.
+    </string>
+
+    <!--    BMW530i-->
+    <string name="i530_eks">
+        Dari depan, tampak headlamp yang dirancang dengan gaya khas BMW Series dan sudah berteknologi LED. Bahkan, Auto delay off headlamps dan Daytime Running Lights pun juga turut disematkan. Sehingga, membuat pencahayaan menjadi lebih maksimal.
+        \n
+        Tak hanya itu saja, grille depan khas BMW Series pun masih bertahan mengikuti alur desain headlamp yang membuat wajah dari BMW seri 530i ini kian menarik dan menawan. Bahkan, grille depan pada sedan ini pun sudah dilengkapi dengan auto kidney grille yang dapat terbuka dan tertutup otomatis tergantung kebutuhan udara yang dibutuhkan untuk mendinginkan mesinnya.
+        \n
+        Pada bagian belakang, BMW 530i memiliki desain belakang yang cukup anggun dengan model yang mengikuti alur wajah di sisi depan. Di mana, stoplamp modern bergaya futuristik dan modern pun tampak terpasang manis di bagian belakang.
+        \n
+Tak hanya itu, dual knalpot minimalis tampak terpasang dengan manis di bagian belakang. Sehingga, membuat tampilan eksterior pada spesifikasi BMW530i ini semakin terkesan begitu elegan dan mewah.
+    </string>
+    <string name="i530_int">
+        Pada ruang kabin sedan buatan BMW ini, tampaknya kesan elegan dan modern bakal kian terasa. Pasalnya, dari setiap sisi kabin interior yang diusung sedan ini tampak beberapa komponen canggih. Seperti pada dashboard depan. Dimana, spesifikasi BMW 530i ini akan dibekali head unit berupa layar sentuh yang akan menampilkan beberapa fitur hiburan berupa audio visual.
+        \n
+        \n
+        Selain itu, audio input and USB with external media control pun juga hadir untuk memberikan kemudahan pengguna dalam memainkan musik kesuakaan atau memutar radio AM/FM. Tak hanya itu, fitur Pre-wiring for SiriusXM® Satellite Radio Tuner dan HD Radio™ with “multicast” FM station reception juga turut dihadirkan untuk memberikan kenyamanan dalam berkendara.
+    </string>
+
+    <!--    BMW 218i-->
+    <string name="i218_eks">
+        Pada bagian fascianya, tampak sentuhan khas BMW yaitu desain grill nya yang unik untuk ukuran mobil coupe empat pintu. Untuk lampu depan, fog lamp, dan lampu belakang sudah menggunakan teknologi Full LED. Di bagian samping kendaraan sudah dilengkapi dengan comfort access sehingga jika ada pemilik mobil mendekat maka pintu akan otomatis terbuka, begitu pula sebaliknya jika pemilik mobil menjauh maka pintu akan otomatis mengunci. Adanya fitur ini tentunya sangat membantu dalam aspek keamanan kendaraan.
+        \n
+        \n
+        Salah satu nilai jual dan keunikan mobil BMW terbaru ini adalah kacanya sudah didesain frameless sehingga mampu memberikan kesan yang lebih sporty dan mewah. Lanjut di bagian velg nya, tipe ini menggunakan velg alloy ringan yang berdiameter 17 inci, double spoke style 549 bi-color dengan orbit grey finishing mengkilap dan run flat tire.
+        \n
+        \n
+        Di bagian belakang, ada keunikan yang diberikan oleh BMW yaitu fitur tailgate comfort access yang mampu membuka pintu bagasi hanya dengan mengayunkan kaki saja. Namun, sayangnya fitur ini hanya memungkinkan untuk membuka, untuk penutupan pintu bagasi masih harus dilakukan dengan manual. Bagasinya mampu menampung barang bawaan hingga 430 liter dan ada kompartemen yang dapat diatur sesuai kebutuhan pemilik kendaraan.
+    </string>
+    <string name="i218_int">
+        Saat memasuki bagian dalam mobil BMW terbaru ini, bisa dibilang desainnya sudah terlihat premium walaupun harganya termurah jika dibandingkan dengan saudaranya. Pada bagian dashboard, panel, dan door trim juga materialnya full soft touch dan berwarna hitam mewah. Menariknya dari BMW seri ini yaitu adanya fitur BMW Live Cockpit pada head unit yang mampu menyatukan sistem operasi dan display sepenuhnya lewat layar digital berukuran 10.25 inci.
+        \n
+        \n
+        Tak lupa yang menjadi ciri khas BMW adalah mengedepankan kenyamanan berkendara dengan fitur pengaturan jok dan setir yang sudah tilt telescopic steering. Jok pengemudi juga telah dilengkapi dengan dua buah memori seat yang bisa mengatur lumbar support saat berkendara.
+        \n
+        \n
+        Di baris kedua, mobil ini tentunya sudah memanjakan penumpang terbukti dengan adanya seat belt, head rest, panel AC, pengisian daya handphone type C, cupholder, wadah penyimpanan, armrest yang juga dilengkapi dengan cup holder. Jarak antara penumpang dengan kursi depan juga terbilang masih cukup lega sehingga makin membuat nyaman saat dikendarai. Di bagian door trim juga memberikan kesan mewah karena adanya ambient light dengan enam pilihan warna.
+    </string>
+
+    <!--    BMW 8seris-->
+    <string name="seris8_eks">
+        BMW memperkenalkan desain elegan dengan kombinasi garis minimalis melalui bahasa desain terbaru yang disematkan pada 840i M Technic Gran Coupe terbaru. Inovasi terbaru yang ditawarkan BMW M Technic Sport Package menghadirkan desain yang lebih sporty dibandingkan BMW Seri-8 edisi standar.
+
+        Seperti keluarga BMW lainnya, tampilan depan 840i M Technic Gran Coupe memiliki desain yang identik dengan 8-Series Coupe. Termasuk ujung depan yang dibuat lebar dan rendah dengan posisi pilar A. Lampu depan yang sempit dilengkapi dengan fitur BMW Laserlight dengan jangkauan cahaya tinggi hingga 530 meter.
+        \n
+        \n
+        Spatbor yang panjang memberikan kesan mobil bergaya sporty dan kap mesin dibuat lebih ringan untuk meringankan bobot kendaraan. Selain untuk meningkatkan aerodinamis mobil, bumper bawah dibuat lebih besar sehingga lebih banyak mengalirkan udara ke ruang mesin.
+
+        Bodi 840i Gran Coupe dibuat lebih besar dari edisi standar. Dengan penambahan panjang 201 mm dibandingkan edisi Coupe, bodinya semakin besar untuk menambah kapasitas kabin yang lebih lega. Tampak samping dilengkapi dengan velg ringan Y-Spoke 20 inci dan desain pintu samping tanpa bingkai.
+    </string>
+    <string name="seris8_int">
+        Interior BMW Seri 8 melakukan pekerjaan yang luar biasa untuk terlihat sporty dan terasa mewah. Setiap permukaan – mulai dari dasbor berlapis kulit yang lembut hingga trim logam yang disikat di konsol tengah – terasa sama kokohnya dengan Seri 7 yang sangat mewah. Lapisan baja tahan karat knurled di konsol tengah terasa sangat indah dan kenop roda gigi efek kristal adalah perubahan yang bagus dari gumpalan plastik agak amorf yang Anda dapatkan di sebagian besar BMW lainnya.
+        \n
+        \n
+        Konsol tengah BMW Seri 8 yang lebar dinaikkan lebih tinggi daripada seri 7 lainnya yang, dikombinasikan dengan kaca depan yang berbentuk kotak, membuatnya terasa lebih sporty untuk diduduki. Kursi melakukan perannya untuk membuat Anda merasa terkurung di kabin Seri 8 juga, dengan posisi tersampir rendah dan sisi yang ditopang berat.
+    </string>
+
+    ========================================================
+    Honda
+
+    <!--    Honda Brv-->
+    <string name="brv_eks">
+        Tidak ada lagi kesan mengubah Mobilio jadi SUV. Mulai dari platformnya sudah berbeda. Konstruksi baru yang membuat dimensi semakin melar untuk akomodasi lebih baik.  BR-V lama punya ukuran (PxLxT) 4.456 x 1.736 x 1.666 mm. Wheelbase tercatat 2.662 mm dan ground clearance 201 mm. Bodi BR-V membesar jadi panjang 4.490 mm, lebar 1.780 mm dan tinggi 1.685 mm. Wheelbase melar ke 2.700 mm, sementara ground clearance meninggi ke 220 mm. Terlihat makin gagah seperti SUV tulen.
+        \n
+        \n
+        Bahasa desainnya pun menerjemahkan mobil keluarga tualang. Fasad dibuat lebih tegas dan membentuk hidung tegak beriaskan grille menganga. Tarikan bodi samping dibuat sederhana tanpa ada lagi undakan di garis bahu. Lalu ditutup bokong simpel minim garis.
+    </string>
+    <string name="brv_int">
+        Dashboard BR-V baru pun tak lagi sama seperti Brio. Setelah diperhatikan, ternyata memakai layout milik Honda Amaze yang beredar India. Untungnya cocok untuk BR-V yang karakternya SUV. Ruang kaki makin lapang berkat penambahan wheelbase. Terlihat masih tersisa banyak ruang kargo saat kursi baris ketiga terbuka. Begitu terlipat pun dalam keadaan rata lantai, tidak lagi model lipatan yang memakan tempat. Sudah pasti membaik untuk membuktikannya kombinasi sempurna antara MPV dan SUV.
+        \n
+        \n
+        Untuk kursi, Honda menyematkan headrest yang bisa diatur untuk semua baris. Kepraktisan khas sebuah Honda juga terpancar dengan bagaimana membuka akses ke baris ketiga, hanya menarik satu tuas. Kursi bisa langsung terlipat kedepan dan menciptakan akses untuk ke bangku paling belakang. Kekurangan di bagian ini adalah, absennya pengatur ketinggian untuk pengemudi. Posisi duduk yang agak rendah membuat mereka yang bertubuh tidak terlalu tinggi, memerlukan waktu lebih untuk menyesuaikan diri.
+        \n
+        \n
+        Ruang kaki di mobil ini terbilang cukup baik. Terutama di baris kedua. Kursi yang bisa digeser maju-mundur membuat penumpang leluasa mendapatkan kelegaan. Hal tersebut juga berimplikasi positif untuk penumpang baris ketiga: ruang kakinya cukup fleksibel, meski bagaimanapun memang tidak bisa dibilang lega di bagian ini.
+    </string>
+
+    <!--    Honda Crv-->
+    <string name="crv_eks">
+        Honda CR-V berbagi platform dengan Honda Civic. Hasilnyanya adalah kenyamanan dan performa ala Civic namun dengan utilitas yang lebih mumpuni. Hal ini lantaran rancang bangun CR-V yang mengadopsi DNA SUV. Meskipun, kita tahu, SUV sejati pasti menggunakan sasis ladder frame. Walau CR-V dibangun dengan skema bodi monokok, namun, karena daya jelajah lebih tangguh, ia pun disebut Crossover SUV. CR-V baru didesain oleh Honda America. Mereka membuat desain ini untuk diterapkan secara global. Artinya, CR-V disana dan di Indonesia bentuk dan sistem penggeraknya sama. Mungkin karena yang mendesain Honda Amerika, negara yang doyan mobil bongsor, maka CR-V pun akan terlihat besar dilhat dari sudut manapun. Bentuknya maskulin layaknya SUV.
+    </string>
+    <string name="crv_int">
+        Masuk ke dalam kabin ada beberapa sentuhan baru yang dilakukan untuk menambah kenyamanan penumpang. Dashboard All New Honda CR-V dilengkapi dengan Meter Cluster canggih yang menampilkan berbagai informasi saat berkendara. Roda kemudi berbalut kulit dilengkapi dengan Audio Steering Switch, Handsfree Telephone Switch dan Cruise Control untuk memudahkan pengemudi saat berkendara. Sementara Audio Video System canggih dengan layar sentuh 9 inci telah dilengkapi berbagai fungsi termasuk Smartphone Connection, NAVI System, Multi Angle Rearview Camera, dan Nanoe Technology yang berfungsi menjaga kualitas udara dalam kabin. All New Honda CR-V kini memiliki dua pilihan kabin berdasarkan pilihan mesin. Untuk varian 1.5 liter Turbo dan 1.5 liter Turbo Prestige kini tersedia bangku baris ketiga.
+        \n
+        \n
+        Pemandangan dari dalam kabin All New Honda CR-V semakin luas dengan hadirnya Power Panoramic Sunroof yang bisa diatur secara elektrik. Tak hanya untuk penumpang, All New Honda CR-V juga menawarkan ruang kargo yang fleksibel, didukung Power Tailgate with Height Adjustment yang memudahkan saat memuat barang.. Honda CR-V juga sudah dilengkapi pengaturan kursi secara elektrik, hingga rem parkir dengan fitur Auto Hold (Anda tidak perlu menginjak rem saat mobil berhenti di tanjakan) sangat memanjakan pengemudi dan penumpangnya. Untuk kenyamanan dan keasyikkan penumpang, ada sun roof. Oh ya, kini material kabin juga sudah diperbaiki dengan pelapisan soft pad di lebih banyak area interior.
+    </string>
+
+    <!--    Honda Hrv-->
+    <string name="hrv_eks">
+        Honda HR-V bisa dibilang menjadi trendsetter baru di kelas crossover, yang sebelumnya didobrak oleh Nissan Juke. Desainnya mampu menggabungkan kesan dinamis dan sporty, yang keduanya jadi faktor penting bagi mereka yang berjiwa muda. Sejak pertama kali keluar, parasnya mudah memikat selera orang kebanyakan.Tanpa nama besar Honda pun, kami yakin mobil ini memiliki daya tarik sendiri berkat faktor bentuk ini. Dimensinya cukup pas untuk berkendara di kepadatan kota dengan panjang 4.294 mm, lebar 1.772 mm, tinggi 1.580 mm dengan wheelbase sepanjang 2.610 mm.
+        \n
+        \n
+        Wajahnya mengusung bahasa desain Honda bertajuk Solid Wing Face, dengan grille besar, desain yang tegas dan gagah layaknya sebuah SUV. Di sepanjang tubuhnya, garis desain bodi yang minim sudut membuatnya terlihat dinamis. Namun garis desain itu diperlihatkan dengan tegas, seolah menunjukkan kekuatan SUV yang dimilikinya.
+        \n
+        \n
+        Terbaru di model facelift, griile dibuat lebih tebal dan tegas, berlanjut mengubah rancang desain bemper terutama rumah fog lamp. Kelengkapan eksterior tentunya tergantung pada model mana yang Anda pilih. Yang jelas semua model dibekali fog lamp dan spion elektrik dengan imbuhan lampu sein. Lampu utama dan lampu kabut dengan teknologi Full LED, ada pada varian Special Edition dan 1.8L Prestige. Sedangkan di bawahnya dibekali Halogen proyektor. Perubahan lain di tipe E, desain pelek pakai milik HR-V Prestige terdahulu, serta antenanya sekarang model shark finn.
+    </string>
+    <string name="hrv_int">
+        Interior tak luput dapat penyegaran, walau tidak ada desain yang berubah. Kabin HR-V tipe S dan E kini didominasi warna hitam. Jok tipe E mengombinasikan kulit dan kain. Sedangkan Special Edition sudah kulit semuanya, sampai membalut setir dan tuas transmisi. Khusus Prestige, berpadu dengan warna Ivory untuk dasbor, konsol tengah sampai door trim. Perubahan di kursi baris kedua, adanya tambahan head rest di tengah dan sabuk pengaman tiga titik.
+        \n
+        \n
+        Kabin HR-V bernuansa futuristik tapi sederhana. Kesan canggih tampak dari tombol AC Smart Touch, berupa monitor layar sentuh. Di atasnya terpampang head unit baru model floating berukuran 8-inci. Fiturnya banyak, mulai dari berbagai pemutar media sampai koneksi smartphone. Sistem infotainment baru itu tersedia di tipe E dan Prestige saja.
+        \n
+        \n
+        Posisi mengemudi HR-V terasa mantap seperti menaiki sedan. Duduknya tergolong rendah, namun tersedia pengaturan ketinggian untuk disesuaikan postur pengemudi. Posisi sempurna semakin mudah didapat berkat setelan setir tilt dan telescopic. Ditambah lagi posisi konsol tengah beserta tuas transmisi yang tinggi layaknya mobil sport. Karena layout yang sporty, memungkinkan penggunaan Electronic Parking Brake (EPB) menggantikan rem parker konvensional.
+        \n
+        \n
+        Keunggulan HR-V lainnya, kabin penumpang baris kedua. Ruang untuk kaki dan kepala cukup berlimpah dan jauh dari kesan sempit. Fleksibilitasnya begitu tinggi, karena dapat diatur sepraktis mungkin untuk menaruh barang bawaan. Butuh ruang bagasi lebih lapang, tinggal melipat sandaran kursi rata lantai. Dudukan kursi juga dapat dilipat ke atas sama seperti di Honda Jazz. Fitur kepraktisan kabin ini dikenal sebagai Ultra Seat.
+    </string>
+
+    <!--    Honda Brio-->
+    <string name="brio_eks">
+        Berkat dimensinya yang membesar, Honda Brio punya tingkat kekakuan struktur yang lebih baik dari sebelumnya. Ini berarti, mobil lebih kuat, dan kestabilan meningkat. Secara desain, bukan yang akan mengundang kata wow memang. Tapi ini lebih baik dari sebelumnya. Desain muka terlihat lebih tegas dan mengangkat sisi sporty. Sementara di belakang, kami sangat mensyukuri hilangnya tutup bagasi kaca tanpa frame. Bagasi model sebelumnya, jika terjadi tabrak belakang, bisa pecah dan meninggalkan lobang besar. Penutup bagasi Brio baru lebih konvensional, dan lebih terlihat berotot dengan bemper baru. Tampilan paling menarik memang datang dari Brio RS, dengan aerokit yang menyertai.
+    </string>
+    <string name="brio_int">
+        Ini yang sangat terasa membuat tanggung. Dashboardnya masih mirip dengan sebelumnya. Layar monitor (untuk varian RS) atau Double DIN terlihat dominan di tengah. Sedangkan di bawahnya, terpasang pengatur AC digital. Antara Brio RS dan Satya, dibedakan dengan warna jok cerah untuk Satya, dan RS, sejalan dengan tema yang sporty, punya material interior berwarna gelap. Penambahan dimensi juga mengatrol kelegaan. Menurut klaim Honda, ruang kakinya bertambah 42 mm, ruang lutut bertambah 60 mm, dan bagasi kini mampu menampung 259 liter barang. Atau naik 84 liter dari sebelumnya.
+    </string>
+
+    <!--    Honda City-->
+    <string name="city_eks">
+        Mengusung tema “Energetic, the H Atchback” Honda City Hatchback memiliki tampilan luar yang terlihat agresif dan futuristik. Model ini berhasil disematkan grille bernuansa hitam mengkilap yang dipadukan dengan bumper depan dan belakang yang terlihat agresif. Pada lampu utamany, Honda City Hatchback memiliki headlight with LED daytime driving light.
+        \n
+        \n
+        Namun, pada bagian lingkar roda Honda City Hatchback memakai velg yang didesain dengan nuansa lebih sporty berkat penggunaan velg berukuran 16 inci (Tipe RS). Sedangkan trim sedan menggunakan velg lebih kecil berukuran 15 inci.
+        \n
+        \n
+        Tampilan belakangnya, Honda City Hatchback terlihat lebih sporty dari pada versi sedannya. Semua ini berkat pengaplikasian bumper berpenampilan sport dengan lekukan garis tegas di kedua bagian sisinya, serta disematkannya body kit dengan aksen hitam dibawahnya.  Bukan hanya itu, stoplamp Honda City Hatchback dibuat lebih dinamis dengan bentuk meruncing berteknologi LED didalamnya, sebagai sinyal cahaya lampu untuk mengurangi kecepatan.
+    </string>
+    <string name="city_int">
+        Tampilan dasbor modern yang memadukan unsur digital dan analog. Seperti panel AC dengan penunjuk digital namun pengaturannya masih mengandalkan kenop putaran. Panel instrumen Honda City juga merupakan perpaduan digital dan analog dengan warna monokrom. Sayang untuk pengaturan MID hanya bisa dilakukan melalui tombol di dasbor yang terhalang oleh alat kemudi.
+        \n
+        \n
+        Kemudian pada stir kemudi, ada beberapa tombol pengaturan yang bisa dimanfaatkan untuk memudahkan pengemudi dalam mengakses layanan hiburan serta informasi penting di MID. Hebatnya, Honda telah membekali City dengan Heat Rejecting Green Tinted Glass. Meskipun saat kondisi panas terik, tangan pengendara tetap terasa cukup menyengat.
+    </string>
+
+    <!--    Honda Civic-->
+    <string name="civic_eks">
+        Mobil ini memiliki tampilan eksterior yang sangat sporty. Hal tersebut dapat dilihat pada bagian body yang tegas. Bagian lampu sudah dilengkapi dengan LED untuk headlamp dan foglamp. Kesan sporty juga ditunjukkan melalui velg 20 inci. Dari sisi manapun Anda melihat, harus diakui mobil ini terlihat agresif. Bumper depan punya lubang udara besar untuk menyalurkan udara ke mesin, ataupun mendinginkan rem jika perlu. Kap mesin dengan lubang intake menambah kesan intimidatif, belum lagi perawakannya terlihat lebar karena penggunaan ban yang lebih besar.
+        \n
+        \n
+        Dari belakang, sayap besar tampak mendominasi. Lekukan Civic Hatchback yang tegas dikombinasikan dengan bumper belakang yang harus mendukung sistem aerodinamika dari depan, plus lubang knalpot di tengah dan lekukan aerodinamika di atap belakang. Sekali lagi, bentuk ini, dari manapun Anda melihatnya, akan terlihat agresif.
+        \n
+        \n
+        Fitur eksterior terbilang lengkap karena apa yang ada di Civic Hatchback, ada juga di mobil ini. Lampu depan dengan LED dan proyektor, sudah dilengkapi DRL (day-time running light/lampu siang), fog lamp. Di bagian belakang juga sama, lampunya sudah LED. Dan jangan lupa, ada kamera belakang dengan multi angle. Di bagian kaki, pelek berukuran 20 inci menjadi penopang mobil ini. Ban yang digunakan berukuran 245/30, cukup lebar untuk membantu pengendalian.
+    </string>
+    <string name="civic_int">
+        Meski didaulat sebagai mobil kencang, tapi Civic Type Rtidak melupakan kesenangan berkendara. Hal ini diperlihatkan dengan hadirnya sistem multimedia yang berpusat di head unit berukuran tujuh inci. Layar ini berbasis operasi Android dan mampu menampilkan navigasi yang didukung oleh Garmin. Selain itu, sistem multimedia juga didukung oleh delapan speaker yang tersebar di kabin. Meskipun kalau menurut kami, matikan saja sistem multimedia itu dan nikmati deruman suara Type R. Selera, sih. Jok semibucket-nya dibalur warna merah, demikian juga beberapa bagian di kabin yang mendapatkan ornamen jahitan berwarna serupa. Lingkar kemudinya terbuat dari bahan kulit, dan sudah dielngkapi dengan tombol-tombol untuk mengatur audio, MID, maupun cruise control. Instrumen cluster di depan pengemudi bisa berubah motif dan warnanya sesuai dengan mode berkendara yang dipilih. Ada Comfort, Sport, dan R+. Yang terakhir itu tentunya mode berkendara yang paling menghebohkan, dan mengeluarkan karakteristik asli sang Type R.
+        \n
+        \n
+        Fitur bantu berkendara dan keselamtan juga dihadirkan oleh Honda. Contohnya pengingat pindah jalur, yang akan memperingatkan pengemudi saat pindah jalur tapi tidak pasang sein. Hill start assist, yang sangat berguna saat berhenti dan akan mulai berjalan di tanjakan. Apalagi ini mobil manual, pasti perlu fitur ini. Ada juga dudukan ISOFIX untuk tempat duduk anak. Untuk yang satu ini kami sangat menyarankan untuk tidak membawa anak-anak, saat Anda memuaskan adrenalin bersama Civic Type R.
+    </string>
+
+    <!--    Honda Mobilio-->
+    <string name="lio_eks">
+        Persaingan segmen Low MPV di Indonesia menjadi yang paling ramai dan panas. PT Honda Prospect Motor (HPM) mengandalkan Honda Mobilio di segmen ini. Bagaimana kabarnya? Honda memperkenalkan Mobilio pertama kali pada tahun 2014. Hingga saat ini Honda Mobilio telah mencapai penjualan lebih dari 230 ribu unit sampai dengan bulan Oktober 2019. Perubahan model MPV ini terbilang cepat. Awal tahun 2016, HPM merilis perubahan wajah dan interior. Saat itu, perubahan di bagian eksterior terbilang minim, namun penyematan pengendali AC digital di kabin memberikan nilai lebih, dan membuatnya terlihat canggih. Januari 2017, HPM kembali merevisi andalannya ini.
+        \n
+        \n
+        Parasnya berubah total, meski dari pilar A hingga ke belakang masih sama dengan sebelumnya. Bagian interior tidak begitu berubah selain penyematan kursi dengan headrest terpisah untuk semua bangku. Namun khusus untuk varian RS yang notabene paling mewah, Honda membekalinya dengan AC climate control digital. Honda terakhir kali memberikan refreshment Honda Mobilio pada Feruari 2019 lalu. Mobil ini mendapat beberapa penyegaran pada eksterior serta beberapa fitur baru pada interior. Pada bagian eksterior, New Honda Mobilio dilengkapi dengan New projector headlamp with LED daytime running light, velg baru 15 inch two tone, spoiler di bagian depan, samping, serta belakang. Pada bagian interior New Honda Mobilio kini dilengkapi dengan berbagai fitur seperti handsfree telephone, koneksi bluetooth, kamera belakang, serta pemutar CD dan DVD.
+    </string>
+    <string name="lio_int">
+        Sejak berubah muka pada awal 2017 ini, interiornya sedikit mengalami peningkatan. Diantaranya adalah penggunaan kendali AC digital untuk semua varian. Pada Mobilio RS, AC bahkan sudah dibekali dengan climate control. Kursi juga mengalami peningkatan dengan perubahan matrial di dalamnya. MEski demikian, pembungkus kursi masih sama berupa bahan fabric.
+    </string>
+
+    <!--    Honda Accord-->
+    <string name="acord_eks">
+        Untuk eksterior, Accord punya karakter yang sepenuhnya baru. Ia menampilkan garis atap yang lebih rendah, serta kap mesin yang panjang. Bertujuan demi mengerek nilai aerodinamika. Wajahnya khas desain terbaru Honda, dengan Chrome Wing Grille. Mobil dilengkapi dengan fitur Active Grille Shutter dan Air Curtain di bumper depan untuk performa. Pelek 18 inci tampil trendy menemani dual chrome exhaust pipe finisher. Kombinasi itu memperkuat tampilan layaknya sedan premium.
+        \n
+        \n
+        Demi menghasilkan bentuk bodi yang lebih halus, Honda menerapkan proses laser brazing. Yakni penyatuan panel atap dan sisi bodi pakai teknologi laser. Proses ini memberikan tampilan eksterior yang lebih bersih dan menyatu.
+    </string>
+    <string name="acord_int">
+        Ketika Anda memasuki kabin, yang terasa ialah nuansa lapang, nyaman dan canggih. Tapi jujur saja kurang mewah (di baris kedua) untuk mobil berbanderol nyaris Rp 700 juta ini. Kabin belakang cuma dilengkapi dua buah port USB charger dan ventilasi AC di konsol tengah, serta sunshade yang lebih besar. Untungnya, terpasang layar capacitive touchscreen 8 inci sebagai hiburan. Terdapat pula wireless charger console untuk mengecas smartphone di konsol depan. Jadi kesan premiumnya masih terasa.
+        \n
+        \n
+        Agar menciptakan kabin yang lebih senyap, Honda membenamkan lebih banyak materi peredam. Itu diaplikasikan pada berbagai bagian bodi. Termasuk teknologi wheel resonator untuk mengurangi kebisingan roda dan bagian bawah mobil saat berkendara. Selain itu, sistem Active Noise Cancellation (ANC) jua diterapkan untuk mengurangi gaduh di dalam kabin.
+    </string>
+
+    ================================================
+    Hyundai
+
+    <!--    Hyundai Creta-->
+    <string name="creta_eks">
+        Dari segi eksterior, grille berwarna hitam yang lebar dan berpola jewel akan menjadi daya tarik utamanya. Ditambah lagi, di antara grille tersebut tersembunyi lampu Daytime Running Light (DRL) LED pada sisi kanan dan kirinya. Lampu utamanya juga khas Hyundai terletak secara vertikal di sisi kanan dan kiri di bawah DRL.
+        \n
+        \n
+        Beralih ke bagian samping, velg dari Creta mencolok dengan ukuran 17 inci dan menggunakan diamond cut alloy two tone untuk varian tertinggi, sedangkan hanya alloy wheel untuk varian rendahnya. Dan juga dari samping terlihat bahwa mobil ini mengusung pilihan warna two tone.
+        \n
+        \n
+        Di sisi belakang, terlihat cukup berbeda dari bagian depan. Jika depannya memberikan kesan garang, bagian belakangnya lebih ke arah futuristik dengan emblem logo Hyundai di tengah dan CRETA di bawahnya. Pada atas kaca belakang juga terdapat spoiler yang warnanya senada dengan atap serta antena shark fin.
+        \n
+        \n
+        Yang unik pada bagian belakangnya adalah bentuk lampunya. Lampu yang sudah menggunakan LED ini seakan-akan terbelah menjadi dua oleh bodi mobil, memberikan kesan futuristik. Ditambah lagi, di belahan bodi mobil tersebut masih terdapat potongan lampu  berukuran kecil.
+    </string>
+    <string name="creta_int">
+        Fokus pada kursi pengemudi, di depan setir terdapat layar panel instrumen atau meter cluster berukuran 10,25 inci full TFT yang sudah menggunakan teknologi digital. LCD meter cluster tersebut dapat menunjukkan 4 mode berkendara yaitu Eco, Comfort, Smart, dan Sport yang tampilannya berbeda tiap modenya. Setirnya juga dapat disesuaikan dengan sang pengemudi secara tilt dan telescopic.
+        \n
+        \n
+        Pada bagian tengahnya terdapat head unit berukuran 8 inci yang dapat terintegrasi dengan smartphone. Di bagian bawahnya terdapat pengaturan suhu otomatis, dan di bawahnya lagi terdapat port USB serta kompartemen untuk mengisi daya ponsel secara wireless atau nirkabel.
+        \n
+        \n
+        Di antara kedua kursi penumpang depan terdapat tuas transmisi yang menggunakan Intelligent Variable Transmission (IVT). Mengikuti mobil-mobil Hyundai keluaran baru, Creta juga sudah menggunakan Electronic Parking Brake yang terdapat Auto Hold, serta telah menggunakan Push Start Button.
+        \n
+        \n
+        Di depan kursi penumpang depan terdapat glove box yang telah menggunakan teknologi cooling. Dan juga pada dasbor di depannya terdapat ambient mood lamp ala Hyundai. Satu lagi yang menarik dari kursi Hyundai Creta adalah terdapat fitur pendingin, cocok untuk iklim tropis Indonesia, nih.
+        \n
+        \n
+        Di bagian belakang, terdapat armrest tengah di antara kedua jok kursi belakang yang mana terdapat dua cup holder. Terdapat juga AC pada bagian konsol tengah bawah yang dilengkapi pengaturan AC.
+        \n
+        \n
+        Di bawah AC-nya terdapat port USB dan juga kompartemen kecil untuk meletakkan ponsel. Di belakang dua kursi depannya juga terdapat kantong yang juga berbahan kulit. Tak kekurangan kompartemen, masih ada juga kompartemen belakang pada sisi pintunya.
+        \n
+        \n
+        Di bagian atap, terdapat panoramic sunroof yang sangat lebar dari bagian atas penumpang depan hingga atap penumpang belakang. Konsol dari panoramic sunroof tersebut terletak di atas spion tengah bersamaan dengan lampu baca dan juga fitur terbaru Hyundai yakni Bluelink.
+    </string>
+
+    <!--    Hyundai Ioniq-->
+    <string name="ioniq_eks">
+        Hyundai Ioniq memiliki dimensi yang proporsional. Panjang Ioniq mencapai 4.470 mm, lebar 1.820 mm, tinggi 1.475 mm, dan jarak sumbu roda 2.700 mm. Hyundai Ioniq menggunakan velg berdiameter 16 inci dan ban berukuran 205/60 R16 untuk roda depan dan belakang. Bagian depan Ioniq terlihat unik dengan desain gril yang khas dan terlihat futuristik. Floating grill tersebut berpadu dengan lampu depan model LED yang dilengkapi dengan lampu Daytime Running Light (DRL) model LED di bagian bawah.
+        \n
+        \n
+        Pada bagian samping Ioniq terlihat ramping dan aerodinamis. Saat membuka pintu akan terlihat chrome footrest bertuliskan Ioniq. Ioniq juga dilengkapi dengan chrome list pada bagian pintu depan dan belakang.Pada bagian belakang stop lamp Ioniq menggunakan model LED. Desain belakang dirancang minimalis namun tetap terlihat sporti. Identitas sebagai kendaraan listrik diperkuat dengan emblem tulisan Ioniq dan Electric di pintu bagasi belakang. Sementara di bagian atas terdapat Shark Fin Antena untuk mendukung entertainment.
+    </string>
+    <string name="ioniq_int">
+        Interior Ioniq dapat menampung 5 orang penumpang. Dirancang dengan mengutamakan kenyamanan penumpangnya. Setiap tempat duduk dilengkapi dengan sabuk pengaman. Cluster meter Ioniq terlihat sederhana namun informatif dan menampilkan grafis yang nyaman di mata. Pada bagian setir terdapat control audio dan cruise control yang memberikan kemudahan bagi pengemudi saat menikmati sistem entertainment selama perjalanan. Tombol cruise control mudah digunakan dan sangat membantu dalam perjalanan panjang.
+        \n
+        \n
+        Ruas dashboard dilengkapi dengan layar monitor 8 inci yang menjadi pusat pengendalian fitur-fitur seperti audio, bluetooth, phone, pengaturan drive mode, audio setting, dan indikator daya baterai. Tepat di bawah monitor, terdapat pusat pengaturan penyejuk udara. Menariknya, terdapat tombol bertuliskan Driver Only, yang artinya hembusan AC hanya berada di area pengemudi. Fitur itu bisa digunakan saat Ioniq hanya dikendarai satu orang saja. Tujuannya, untuk menghemat daya baterai. Pada konsol tengah bagian bawah terdapat ruang yang cukup besar untuk menampung barang-barang berukuran sedang.
+        \n
+        \n
+        Juga tersedia dua tempat menyimpan botol minuman. Pada konsol tengah juga terdapat tombol Shift by Wire yang menjadi ciri khas Ioniq. Tombol ini berfungsi untuk mengoperasionalkan Ioniq. Juga tersedia wireless charger yang memungkinkan untuk mengisi daya baterai smartphone tanpa menggunakan kabel. Untuk kenyamanan ekstra selama perjalanan, Ioniq juga dilengkapi dengan ventilated seat (hangat/sejuk), Drive Mode Select (Eco, Normal, Sport), Rear View Monitor with Dynamic Parking Guides, Parking Distance Warning, Blind spot Collision Warning, dan Rear Cross Traffic Collision Warning.
+    </string>
+
+    <!--    Hyundai Staria-->
+    <string name="staria_eks">
+        Staria diklaim memiliki ukuran paling besar di kelasnya dengan lebar keseluruhan 1.997 mm dan panjang 5.253 mm. Jarak antara as atau wheelbase adalah 3.273 mm dan jarak tapak roda belakang adalah 1.732 mm. Mobil ini juga memiliki tampilan yang berbeda dari para rivalnya. Inspirasi eksterior ini dikatakan terinspirasi dari pesawat luar angkasa.
+        \n
+        \n
+        Pada bagian depan terdapat gril berbentuk trapesium yang diapit oleh dua lampu LED. Bentuk gril pada mobil ini juga cukup menarik karena tidak biasa terlihat pada mobil baru. Kemudian di bagian belakang terdapat lampu kombinasi yang berdiri tegak, sedangkan pelek berukuran 18 inci.
+    </string>
+    <string name="staria_int">
+        Pada bagian interior kabin, Staria mengusung konsep multi-open space dengan komposisi multiguna untuk kenyamanan penumpang layaknya di lounge premium. Kursi pengemudi memiliki sentuhan mewah seperti TFT LCD Instrument Cluster 10,25 inci dan monitor tengah layar sentuh 8 inci dengan fitur streaming audio Bluetooth, dan tombol transmisi Shift-by-Wire.
+        \n
+        \n
+        Ambient mood lights menjadi nuansa yang ditawarkan juga oleh Staria. Penerangan ini juga memberikan nuansa jelas pada bagian lainnya seperti pintu, area bagasi, konsol, dan kokpit. Suguhan Dual Sunroof dengan fitur slide and tilting menjadi bagian menyenangkan dari mobil ini. Untuk pengontrolan udara, tersedia filter pada HVAC di bagian belakangnya.
+        \n
+        \n
+        Sedangkan ventilasi disesuaikan dengan jumlah kursi di setiap tipenya, yaitu Signature 7 memiliki 4 ventilasi dan Signature 9 memiliki 6 ventilasi. Telinga penumpang akan dimanjakan dengan BOSE Premium Sound System sebagai penunjang fitur hiburan. Lalu ada Wireless Smartphone Charging di dashboard dan port USB charge untuk semua baris kursi.
+        \n
+        \n
+        Masih di area kabin, Staria Signature 7 dilengkapi dengan tujuh kursi dan Premium Relaxation Seats di baris kedua yang dapat direbahkan secara otomatis dan digeser untuk memudahkan akses atau memaksimalkan ruang penyimpanan. Sedangkan pada varian Signature 9, dilengkapi dengan 9 kursi dengan Swiveling Independent Seat, baris kedua bisa diputar 180 derajat untuk bisa berhadapan dengan penumpang di baris ketiga.
+    </string>
+
+    <!--    Hyndai Kona-->
+    <string name="kona_eks">
+        Untuk desain eksterior Hyundai menawarkan tampilan gaya modern menggunakan LED dengan tipe Daytime Running. Penggunaan lampu ini memungkinkan pencahayaan lampu lebih tajam. Hyundai Kona juga menawarkan bentuk mobil cenderung melebar dengan bagian depan menggunakan port asimatris sebagai pengisian daya. Sementara pada bumper, asupan untuk udara fungsional ditingkatkan menggunakan palang satin horizontal secara visual.
+    </string>
+    <string name="kona_int">
+        Hyundai kona adalah mobil jenis LSUV pabrikan Korea memulai debutnya pada bulan April 2019.  Merupakan pesaing baru untuk LSUV yang lebih dulu menguasai pasaran mobil di Indonesia. Hyundai Kona datang dengan desain interior compact dan sorty. Pilihan warna pada Hyundai Kona antara lain adalah Dark Knight, Chalk White, Acid Yellow dan Phantom Black.
+        \n
+        \n
+        Warna lime dan merah memberikan kesan atraktif pada desain jok berbahan kulit pada interior Hyundai Kona. Selain itu, Hyundai Kona dengan edisi Electric 2021 ini dilengkapi dengan digital cluster berukuran 10,25 inci. Bluepink juga termasuk fitur terbaru pada edisi kali ini. Teknologi ini berfungsi supaya pelanggan bisa menghentikan pengisian daya secara otomatis. Dimana teknologi ini sudah terhubung ke smartphone atau pun bisa juga melalui suara.  Terpentingnya lagi ambient lamp sebagai penerangan footwell (ruangan kaki) tidak hanya dipasangkan pada bagian pengemudi, tapi juga bagian penumpang.
+    </string>
+
+    <!--    Hyundai Palisade-->
+    <string name="pali_eks">
+        Gurat wajah dan bodi sangat karismatik serta macho. Kami rasa tak begitu berlebihan kala menyebut arah desainnya mengacu ke produk SUV Amerika Serikat. Intimidatif, elegan, serta serba kotak. Ornamen menempel di muka dipresentasikan dengan apik dan baik. Semisal grille, dibuat begitu besar sampai menghabisi porsi wajah. Hal ini pula salah satu penyumbang karisma sang SUV bongsor. Ditambah, ada lampu sipit dan kotak terpisah untuk memberi pencahayaan. Desain ini sangat elegan, sebab DRL yang seakan memisah punya garis menyambung hingga bawah.
+        \n
+        \n
+        Samping dan belakangnya pun jauh dari kata buruk. Semua proporsional, apalagi ketika melihat varian Signature dengan pelek 20 inci. Dan sajian utama dari pemanja mata, dapat dilihat pada sisi bagasi. Minimalis, modern, boxy, serta pakai lampu vertikal berimbuhan runcing ke sisi. Hal inilah yang membuat kami merasa sangat Amerika.
+        \n
+        \n
+        Tak kalah hebat di dalam kabin. Selain punya format tujuh penumpang dengan konfigurasi captain seat di baris tengah, eksekusi material juga jempolan. Jok memiliki lapisan kulit Nappa, yang kita tahu kerap digunakan mobil-mobil mewah. Jahitannya tentu dibuat presisi, sekaligus berpadu door trim dan panel kayu. Yang nuansa warnanya bisa dipersonalisasi sesuai selera.
+    </string>
+    <string name="pali_int">
+        Ruang kabin Palisade memiliki nuansa begitu mewah, sekaligus futuristik. Lapisan jok kulit Nappa yang bisa dipersonalisasi warnanya menjadi nilai jual tersendiri. Walaupun di varian atas saja. Tapi soal desain dashboard dan konsol, semuanya unik. Terutama panel board dibuat mengambang atau disebut tipe bridge. Menyisakan ruang penyimpanan sekaligus dimanfaatkan untuk memasang power outlet dan wireless charging.
+        \n
+        \n
+        Fitur keamanan jelas jadi fokus Hyundai dalam pengembangan Palisade. Dari mulai menyebarkan enam titik airbag, demi melindungi ketika terjadi tabrakan hebat. Sementara perangkat aktif untuk pencegahan disediakan Blind Spot Collision Warning, serta Rear Cross Traffic Collision Warning. Safe Exit Assist sampai Rear Occupant Alert juga masuk dalam paket. Meski sensor-sensor canggih ini baru ada di tipe Signature ke atas.
+        \n
+        \n
+        Padahal sangat berfungsi. Misal Safe Exit Assist, mendeteksi kendaraan yang datang dari arah belakang dan secara otomatis tetap mengunci pintu. Sehingga mencegah penumpang untuk keluar. Lantas Rear Occupant Alert mendeteksi pergerakan di dalam mobil dan memberi peringatan kepada pengemudi pada saat keluar dari mobil untuk memberitahukan bahwa masih ada penumpang di belakang.
+    </string>
+
+    <!--    Hyundai Santa-->
+    <string name="santa_eks">
+        Eksterior Hyundai All New Santa Fe 2018 bisa dibilang sangat berubah drastis dibanding generasi sebelumnya yang sudah malang melintang di Jalanan Indonesia sejak generasi ketiga pertama kali diperkenalkan di ajang pameran otomotif Gaikindo di 2012. Tim Cintamobil.com sendiri berkesempatan mencoba Hyundai All New Santa Fe XG CRDi yang menjadi varian flagship dari Hyundai All New Santa Fe 2018. Dan varian inilah yang akan kami ulas berdasarkan aspek ekterior, baik dari tampak depan, samping, dan belakang, yang akan kami jelaskan secara terperinci.
+        \n
+        \n
+        Desain eksterior depan Hyundai All New Santa Fe 2018 mengusung dua bahasa desain baru, yakni Composite Light dan Cascading Grille. Composite light sendiri merupakan ciri khas desain Hyundai yang menempatkan LED Daytime Running Lights (DRL) yang ramping berada di atas LED projector head lamp. Di sisi lain desain Cascading Grille yang dibalut aksen garnish pada atas panel grille hingga LED daytime running light memberikan nuansa eksterior depan yang semakin tegas dan dinamis.
+        \n
+        \n
+        Untuk mengejar karakter eksterior depan yang dinamis dan aerodinamis, pada pilar A dirancang lebih mundur dari area bonnet depan serta garis desain atap yang ramping. Aksen lekukan fluid line kental terasa melalui garis bodi mulai dari LED DRL hingga ke area taillight belakang memberikan efek bodi mobil yang lebih lebar dan berotot. Area fender pun dirancang lebih berkarakter dengan lekukan garis yang tegas.
+        \n
+        \n
+        Area eksterior belakang Hyundai All New Santa Fe 2018 terasa modern karena menggunakan 3D-type LED combination lamps yang desainnya sangat futuristik. Masing-masing lampu belakang tersebut dihubungkan oleh aksen garnish dan terus melanjutkan lekuk garis bodi dari sisi samping.
+    </string>
+    <string name="santa_int">
+        Interior Hyundai All New Santa Fe 2018 tak hanya menawarkan kemewahan, namun luas kabin yang lebih lapang dari generasi sebelumnya. Visibilitas pun jauh lebih baik, khususnya untuk penumpang baris kedua dan ketiga. Desain dashboard dan interior pun dirancang menggunakan warna-warna hangat dan pola yang terinspirasi oleh alam, untuk menyeimbangkan antara kenyamanan dan estetika di dalam kabin SUV dari Korea Selatan ini.
+        \n
+        \n
+        Bicara soal dashboard, Hyundai mengusung tampilan dual-cockpit layout yang memaksimalkan fungsi dan estetika. Sisi estetika terlihat dari adanya dua level dashboard, dimana level atas diberikan garis ramping yang menghubungkan dashboard dan panel pintu samping depan. Sedangkan pada area bawah lebih didominasi tombol pengoperasian fitur dengan penempatan storage terbuka lebih banyak, serta dikemas dengan detil aksen jahitan yang menghubungkan antar kisi-kisi AC berlapis aksen chrome.
+        \n
+        \n
+        Di sisi lain pengemudi bisa mengoperasikan fitur audio, MID, dan cruise control dilakukan melalui Leather wrap steering wheel yang didukung pengaturan tilt dan telescopic. Adapun untuk konsol tengah menjadi area penempatan fitur audio, A/C dengan Automatic Temperature Control dan Micro Air filter plus ionizer, serta di area tuas transmisi terdapat tombol electronic parking brake dan fitur berkendara Hyundai All New Santa Fe 2018 lainnya.
+        \n
+        \n
+        Jok Hyundai All New Santa Fe 2018 lebih mengutamakan kenyamanan untuk penggunaan berkendara jarak jauh, serta tetap dikemas premium karena menggunakan material leather dan disertai detil pattern jok yang unik dan menarik. 7 Penumpang dewasa bisa dipastikan bisa duduk dengan nyaman di dalam kabin Hyundai All New Santa Fe 2018. Apalagi untuk urusan akses ke jok baris ketiga pun dipermudah oleh fitur one-touch walk. Bagi pengemudi dan penumpang depan juga akan merasa lebih nyaman karena pengaturan jok diatur secara elektrik.
+    </string>
+
+    <!--    Hyundai Cester-->
+    <string name="cester_eks">
+
+    </string>
+    <string name="cester_int">
+
+    </string>
+
+    <!--    Hyundai Tuscon-->
+    <string name="tuscon_eks">
+        Hyundai Tucson unik karena bodinya terlihat kekar, tapi sekaligus tetap terkesan lembut. Di bagian depan ada fog lamp dengan desain yang meruncing di sudut, posisinya ada di bawah lampu utama. Untuk lampu utama menggunakan tipe proyektor yang pastinya sudah menggunakan lampu LED yang nyalanya lebih terang.
+        \n
+        \n
+        Yang membuat bodi Hyundai Tucson terlihat kokoh adalah desain grill yang terkesan maskulin. Grill Tucson dilapisi Parametric Jewel Grille yang sudah jadi tema desain Hyundai terbaru yang lebih keren dan kelihatan modern. Sementara di bagian belakang ada lapisan krom yang keren di pintu bagasi bagian tengah. Ada 2 buah knalpot yang bikin penampilannya makin mantap. Lalu lampu belakangnya bentuknya memanjang dengan desain yang keren.
+    </string>
+    <string name="tuscon_int">
+        Secara interior, Hyundai Tucson terlihat elegan di kelasnya. Didominasi dengan warna hitam pekat yang membuatnya mewah banget. Fitur interiornya juga terbilang lengkap di kelasnya. Sudah ada MID dengan tampilan yang modern yaitu animasi dan 2D. Jadi bukan sekedar angka saja.
+        \n
+        \n
+        Sementara di kemudinya sudah dilengkapi dengan cruise control dan audio control. Di bagian tengah pastinya sudah dilengkapi dengan HUB berukuran 10.25 inci yang sudah dilengkapi dengan GPS tertanam. Mengemudi jadi lebih mudah dengan bantuan GPS paling mutakhir.
+    </string>
+
+    ==============================================
+    Daihatsu
+    <!--    Daihatsu xenia-->
+    <string name="xenia_eks">
+        Sekarang mudah membedakan antara Xenia atau Avanza generasi terbaru. Mukanya beda total dengan ciri tersendiri. Xenia membagi dua area grille dengan imbang. Sehingga tidak ada bagian yang terlalu berlebih. Sekilas lebih menarik, tapi balik lagi ke selera masing-masing. Profil tubuh masih khas MPV. Bodi memanjang, dan berkat sasis monokok tongkrongan pun jadi rendah.
+        \n
+        \n
+        Membedakan antara Xenia 1.3 dan 1.5 juga gampang. Tipe bermesin 1.500 cc mudah dikenali dari lis merah di grille hingga headlamp. Lalu memakai pelek ukuran 16-inci dengan ban 195/60. Bodinya tersemat paket ADS terdiri dari lower skirt depan-belakang, side skirt, back door garnish dan rear reflector garnish. Tak lupa lis merah turut menghias paket aksesori Daihatsu Astra itu. Plus roda besar membuat tampilan lebih berotot. Lampu utama dan belakang sudah LED. Garnish yang menyambung dengan taillight bukan sekadar hiasan, karena juga bisa menyala.
+    </string>
+    <string name="xenia_int">
+        Interior mirip Rocky. Dominasi warna hitam ditambah beberapa panel dibuat ala serat karbon khusus ADS. Semua serbafungsional dan memudahkan pengoperasian. Fitur-fiturnya modern. Head unit monitor 9-inci punya fungsi Android Auto dan Apple CarPlay. Sekaligus menampilkan pemandangan 360 derajat sekeliling mobil yang bakal disukai para kaum Hawa.
+        \n
+        \n
+        Sebagai mobil keluarga, kepraktisan dan akomodasi penumpang wajib prioritas utama. Melarnya seluruh dimensi (4.395x1.730x1.690 mm) dan wheelbase 2.750 mm, menyajikan kabin semakin lapang. Sasis monokok membuat lantai lebih rendah. Lalu tidak ada lagi drive shaft membuat hilangnya gundukan besar di tengah. Ditambah jarak antarsumbu roda melar, menghasilkan ruang kaki ekstralapang di baris kedua. Baris ketiga juga cukup lega untuk orang dewasa. Area kaki bisa diatur luasnya lewat pengaturan baris kedua yang bisa digeser.
+        \n
+        \n
+        Metode pelipatan tambah praktis berkat model rata lantai. Ini juga menghilangkan kesan minibus. Gimik ditawarkan berupa multiseat arrangement hingga bisa dibuat ala sofa. Bukan sesuatu hal istimewa sebenarnya, rata-rata semua MPV bisa begitu. Banyak tempat penyimpanan dan cup holder bertebaran di mana-mana. Paling suka masih ada card holder di center stack. Sangat menolong menyimpan uang elektronik atau kartu parkir yang gampang tercecer.
+    </string>
+
+    <!--    Daihatsu sirion-->
+    <string name="sirion_eks">
+        Ukuran Dimensi All new Daihatsu Sirion memang terbilang tanggung. Panjangnya 3.895 mm, lebar 1.735 mm dan tinggi 1.525 mm. Dimensi segitu memungkinkan Daihatsu menyematkan jarak sumbu roda 2.500 mm, sehingga menjaganya tetap compact. Hasilnya, Daihatsu Sirion dapat dikendarai dengan sangat lincah. Selain itu, berbekal ground clearance 150 mm, berkendara di berbagai medan pun cukup memadai. Mengusung nama All New Sirion, sudah tentu Daihatsu memanfaatkan tubuhnya untuk diolah sedemikian rupa sehingga mampu menghasilkan tampilan desain eksterior menarik, serta berkualitas. Menyasar konsumen berjiwa muda, desain Daihatsu Sirion dibekali berbagai torehan garis tegas di berbagai area. Sebagai kompromi diaplikasi pula garis yang lembut dan membulat pada berbagai area. Perpaduan elegan dan sporty terpancar kuat darinya. Wajah depan dihiasi bilah grille yang memanjang hingga ke lampu utama. Lampu utama sudah berteknologi LED. Bumpernya diimbuhkan bukaan berbentuk trapesium dengan jaring berlubang besar. Pada kedua ujungnya, rumah foglamp tampak kecil, disempurnakan bezel perak.
+        \n
+        \n
+        Untuk model facelift 2020, ditambahkan aerokit gelap di depan. Kelirnya kontras dengan bodi. Lekukan yang diterapkan menguatkan kesan sporty. Fitur baru lainya adalah side stone guard dan area tempat pelat nomor yang dihitamkan. Pelek alloy 15 inci turut melengkapi penampilannya. Palangnya tegas beraksen two-tone. Bagian samping juga dipasangi spion streamline terintegrasi lampu sein. Perangkat itu pun sangat membantu pengemudi, apalagi saat parkir. Ia dapat dilipat secara otomatis lewat tombol di dalam kabin. Makin sporty, soalnya di belakang bertengger upper spoiler senada bodi, ia ditempatkan dengan antena menyerupai sirip hiu. Semua itu dapat dimiliki dengan sepuhan warna beragam. Sirion kini disodorkan dalam lima kelir. Terbaru adalah Electric Blue Metallic dan Granite Grey Metallic. Keduanya melengkapi Icy White Solid, Lava Red Metallic dan Glittering Silver Metallic yang lebih dulu ada.
+    </string>
+    <string name="sirion_int">
+        Gaya modern dan terkesan berjiwa muda juga dihadirkan Daihatsu ke dalam kabin Sirion. Permainan warna gelap meliputi semua area interior. Apalagi area dasbornya yang memakai garis lurus, tanpa aksen berlebihan. Area itu dilengkapi berbagai fitur terkini yang dapat membantu penggunanya. Terbaru adalah head unitnya yang berupa layar sentuh 7 inci. Kini sudah mempunyai fungsi mirror link, sehingga ia bisa dihubungkan ke smartphone. Tampilan dari gawai komunikasi elektronik pun bakal muncul di display. Sebelumnya 6,2 inci. Guna menjaga fokus pengemudi saat berkendara, dibenamkan audio switch di kemudi. Konektivitas pengguna Sirion terhadap smartphone tetap terjaga.
+        \n
+        \n
+        Baterainya bisa selalu penuh, karena tersedia colokan USB di depan dan belakang, termasuk satu power outlet. Berada di bawah head unit terpasang pengontrol AC. Wujudnya sudah berlayar digital dengan tombol. Kesan kuno pun berhasil dihilangkan Daihatsu. Bergeser ke samping sedikit, tampak ada tombol bulat. Ia adalah Start/Stop Button. Berfungsi menyalakan dan mematikan mesin lewat satu sentuhan jari. Ya, keberadaannya berarti memastikan ketersediaan fungsi keyless. Artinya pengemudi tak perlu lagi menggunakan anak kunci untuk mengakses kabin. Fungsionalitas All New Daihatsu Sirion pun dibuat semumpuni mungkin. Pengaturan untuk mendapatkan posisi mengemudi yang sesuai pengemudi misalnya. Diperoleh dari jok yang bisa digeser ke empat arah, ditambah kemudi dengan fungsi tilt. Informasi terkait kendaraan juga ditampilkan jelas melalui Multi Information Display yang terpajang di tengah panel instrument, bersama indicator analog. Untuk membawa barang pun juga mudah dan sangat akomodatif, meski bertubuh kecil. Joknya bisa disetel dengan melipat sandarannya, sehingga memaksimalkan bagasi. Keselamatan penumpang tak dilupakan Daihatsu.
+        \n
+        \n
+        Berkat dibenamkannya banyak fitur. Sistem penghela laju misalnya, sudah dipasang Anti-lock Braking System (ABS) dan Electronic Brakeforce Distribution (EBD). Keduanya dapat mencegah terjadinya selip, khususnya saat terjadi rem mendadak. Penumpang depan dan pengemudi pun dapat terhindar dari cedera parah saat mengalami tabrakan, karena ada Dual SRS Airbag. Terakhir sensor depan dan belakang, serta kamera buritan. Ketiga perangkat itu sangat membantu saat proses parkir, sehingga mobil tak menabrak objek yang tak terlihat dari spion. Sistem peredaman yang disematkan untuk Sirion merupakan gabungan, Mac Pherson dengan coil spring di depan dan Torsion Beam dengan coil spring di belakang. Keduanya sudah diperkuat stabilizer, agar manuvernya saat menikung atau berpindah jalur tetap stabil. Sedangkan perangkat penghela laju, kombinasi antara cakram di muka dan tromol di belakang. Keduanya sudah mampu menghentikan perputaran roda 185/55 yang dipasang di empat sisi.
+    </string>
+
+    <!--    Daihatsu luxio-->
+    <string name="luxio_eks">
+        Meskipun tak semewah Toyota Alphard atau Mercedes-Benz V-Class, tapi Luxio bisa dibilang menyajikan kenyamanan serta tampilan yang elegan sebagai mobil van komersial. Terlebih dengan tampilan luar yang memadukan aksen chrome pada beberapa bagian.
+        \n
+        \n
+        Bagian depan dipenuhi dengan grille dengan bilah chrome yang lebar dengan logo Daihatsu pada bagian tengah. Dilengkapi lampu depan berbentuk kotak yang dibuat semakin besar dibandingkan edisi sebelum facelift.
+        \n
+        \n
+        Bumper bawah dengan kisi-kisi yang cukup lebar untuk mengalirkan udara ke dalam mesin yang terletak di bagian depan mobil. Bagian depan Daihatsu Luxio juga dilengkapi dengan fog lamp yang akan membantu pengemudian di malam hari.
+        \n
+        \n
+        Dari samping, kesan minimalis terasa tanpa berbagai aksen dan aksesoris. Besar kemungkinan untuk mengurangi biaya produksi. Hanya ada sedikit list chrome di bagian bawah yang menghiasi sliding door, meski belum mendapatkan pengaturan bukaan elektris.
+        \n
+        \n
+        Aksesoris lainnya seperti spion berlapis chrome dengan fungsi retractable dan electric mirror untuk kesan elegan. Ground clearance mencapai 180 mm dipadukan dengan dimensi yang panjang, lebih dari 4 meter, memberikan kabin yang lapang untuk delapan orang.
+        \n
+        \n
+        Bilah chrome juga tersemat pada eksterior belakang. Diapit oleh lampu belakang yang dikelilingi oleh aksen chrome. Selain rear spoiler yang melengkapi tampilan belakang, jendela belakang cukup besar dengan visibilitas yang baik. Mengingat dimensi mobil Daihatsu Luxio yang boxy sehingga memiliki banyak blind spot.
+    </string>
+    <string name="luxio_int">
+        Untuk sekelas mobil komersial, Luxio memiliki berbagai fitur kenyamanan yang sudah mumpuni. Terlihat dari perpaduan material plastik dengan aksen dual tone pada dashboard dan trim pintu. Terdapat glovebox untuk menyimpan barang-barang selama berkendara.
+        \n
+        \n
+        Ada head unit berlayar sentuh yang terintegrasi dengan dashboard bersama fungsi audio guna memutar MP3 maupun radio AM/FM. Untuk Luxio bertransmisi otomatis, tuas persneling bisa ditemukan tertanam pada bagian tengah dashboard, tepat di bawah head unit.
+        \n
+        \n
+        Secara keseluruhan, Luxio menawarkan panel layar berukuran minimalis guna menunjang kebutuhan infotainment dan akses beberapa sistem yang ditawarkan pada mobil. Termasuk kenop AC berbentuk vertikal pada sisi kiri dan kanan head unit.
+        \n
+        \n
+        Setir palang tiga khas Daihatsu masih menemani pengendaraan. Belum ada fombol multi fungsi layaknya model terbaru Daihatsu. Tapi Luxio sudah dilengkapi dengan instrument kluster yang menawarkan berbagai informasi seputar kendaraan, seperti konsumsi bahan bakar dan bahan bakar yang tersisa.
+        \n
+        \n
+        Keunggulan Luxio terdapat pada kabin yang terasa luas dengan ruang kaki dan ruang kepala yang lapang dikarenakan desain boxy yang digunakan. Kursi berbalut material fabric memang tak semewah lapisan kulit, tetapi sudah cukup nyaman untuk menemani sepanjang perjalanan.
+        \n
+        \n
+        Terdapat cupholder pada armrest dan bantalan kursi sehingga meningkatkan kepraktisan di dalam mobil. Kursi baris kedua Daihatsu Luxio sudah dipasang fitur one touch tumble sehingga memudahkan penumpang ketika akan melipat kursi hanya dalam satu sentuhan.
+        \n
+        \n
+        Ruang bagasi cukup baik dibandingkan pesaingnya di segmen yang sama. Bisa menampung hingga beberapa tas jika kursi baris ketiga terisi penuh. Tapi dengan bangku baris ketiga diangkat, bagasi belakang mendapatkan tambahan ruang untuk barang bawaan.
+    </string>
+
+    <!--    Daihatsu terios-->
+    <string name="terios_eks">
+        Dibadingkan pendahulunya, Daihatsu All New Terios memiliki desain body baru. Secara umum, bentuknya tampak lebih aerodinamis, mekanisme buka-tutup bagasinya jadi ke atas, dan yang paling penting sudah tidak ada lagi ban serep model konde.
+        \n
+        \n
+        Kita mulai dari bagian depan, Daihatsu All New Terios 2020 tampak lebih elegan dengan sentuhan gril serta lampu kabut krom. Soal pencahayaan juga jauh lebih mantap dengan LED headlamp dan LED positioning lamp yang didesain pipih seolah menyatu dengan gril.
+        \n
+        \n
+        Beralih ke samping, kita bisa melihat profil mobil tampak lebih panjang dan jangkung. Tentu saja, panjang mobil bertambah 50 mm dari model sebelumnya yang hanya 4.385 menjadi 4.435 mm, dan ground clearence yang naik 20 mm jadi 220 mm.
+        \n
+        \n
+        Kesan tangguh khas SUV hadir berkat penggunaan aksen hitam di area side skirt dan fender, Daihatsu All New Terios 2020 juga mendapatkan roofrail, dan beltline yang diberi aksen krom. Untuk pilihan peleknya ada dua, yakni 16 inci gun metal untuk varian X, dan 17 inci black polished di varian R yang lebih mahal.
+        \n
+        \n
+        Pindah ke bagian buritan, Daihatsu All New Terios 2020 tidak lagi punya ban serep model konde, atau menempel di pintu bagasi. Hal ini membuat tampilannya lebih modern dan bersih, apalagi dengan instalasi lampu belakang teknologi LED dengan desain pipih.
+        \n
+        \n
+        Kalau tidak nempel di pintu belakang, jadi ban serepnya pindah ke mana? Daihatsu menaruh ban serep All New Terios 2020 di kolong bawah mobil belakang dengan cover berbahan plastik untuk varian X Deluxe dan R Deluxe.
+    </string>
+    <string name="terios_int">
+        Dengan memanjangnya mobil, Daihatsu All New Terios 2020 menawarkan kabin yang lebih lapang dan nyaman. Namun pertama-tama, kita akan membahas dasbor dan kokpit terlebih dahulu. Desainnya sedikit lebih modern dibanding generasi sebelumnya dengan finishing two-tone, namun bagian dasbornya masih didominasi material plastik keras dengan aksen jahit-jahitan palsu.
+        \n
+        \n
+        Pun demikian, hadir serangkaian fitur kekinian seperti pengaturan digital Auto AC dengan socket listrik 12V dengan slot USB dan jack audio 3.5 mm, head-unit layar sentuh 2 DIN yang dilengkapi bluetooth, USB port, dan fitur mirroring juga tak lupa menghiasi konsol tengah. Beralih ke kokpit pengemudi, setir yang dipakai memiliki pengontrol audio dan bluetooth telephony. Di baliknya, Anda akan menemukan instrumen cluster model optitron dengan MID digital yang cukup informatif.
+        \n
+        \n
+        Dalam kondisi standar, Daihatsu All New Terios 2020 dapat mengangkut 7 penumpang dengan konfigurasi 2+3+2 layaknya 7-seater kebanyakan. Jok yang dipakai hadir dengan material fabric dengan busa yang lebih tebal sehingga kenyamanan penumpang lebih baik. Untuk mengakses baris ketiga bisa dengan melipat jok baris kedua yang support metode one-touch tumble. Selain itu, jok baris kedua juga bisa dimaju dan dimundurkan sehingga legroom penumpang baris ketiga lebih mumpuni. Bagaimana untuk kapasitas bagasi? Daihatsu All New Terios 2020 cuma bisa memuat 4 buah galon air saat semua baris bangku berdiri, itu tidak spesial-spesial amat. Namun ketika bangku belakang dilipat, Anda bisa menaruh hingga empat buah koper besar dengan posisi ditidurkan.
+    </string>
+
+    <!--    Daihatsu Rocky-->
+    <string name="rocky_eks">
+        Tampilan Rocky nyaris sama seperti versi domestik Jepang. Tetap ada perbedaan utama apabila dikenali lebih seksama. Muka sudah jelas serupa, begitu pula bentuk grille trapesium besar berlogo Daihatsu. Bedanya ada di lampu kabut yang memakai halogen biasa. Di negara asalnya pakai LED plus sederet Daytime Running Light (DRL).
+        \n
+        \n
+        Konsumen sini bisa mendapat gaya yang tidak polosan berkat paket aksesori ADS sebagai varian tersendiri. Profil Rocky turbo tampak tegap berkat pelek 17-inci. Sementara versi 1.2 lebih kecil dengan 16-inci. Rocky tampak gagah dan dominan plastik hitam sesuai karakter SUV kebanyakan.
+    </string>
+    <string name="rocky_int">
+        Begitu masuk kabin, langsung disambut monitor sebesar 9 inci. Panel instrumen layar TFT 7 inci menyajikan tampilan menarik. Serbadigital dengan empat desain sesuai keinginan pengemudi. Ada tampilan konvensional sampai bergaya velodrome. Full Digital Meter Cluster bakal memanjakan visual dalam memantau kinerja mobil. Pengaturan audio dimudahkan tombol-tombol di setir. Begitu pula pusat infotainment monitor 9-inci yang mampu terhubung ke smartphone. Ada tambahan active subwoofer 8-inci yang membuat dentuman bass lebih nendang di Rocky ADS.
+    </string>
+    <!--    Daihatsu grandmax-->
+
+    <string name="max_eks">
+        Dari sisi luar, Daihatsu Gran Max memiliki desain layaknya mini bus. Dimensi mobil ini tidak terlalu besar namun cenderung ramping. Mengusung konsep Semi Bonnet membuat tampilan mobil ini semakin menarik.
+        \n
+        \n
+        Pada bagian depan, Daihatsu Gran Max cukup menarik dengan desain grill minimalis yang dibuat dua tingkat.  Lampu head lamp yang cukup besar dengan desain memanjang ke samping menggunakan teknologi halogen. Bumper depan mobil ini juga terlihat berukuran sedang.
+        \n
+        \n
+        Beralih ke sisi samping, mobil jenis mpv ini telah dilengkapi dengan sliding door yang telah menjadi ciri khasnya. Fitur sliding door sangat membantu saat mobil sedang parkir sehingga tidak memeakan ruang yang cukup luas. Sementara itu, pada bagian ban, mobil ini dilengkapi dengan velg Alloy yang berukuran 165 R13 – C.
+        \n
+        \n
+        Sisi belakang mobil menghadirkan tampilan yang sederhana dengan dilengkapi stoplamp, kaca berukuran besar serta spoiler line. Tak lupa juga emblem Daihatsu Granmax pada sisi samping bagian belakang.
+    </string>
+    <string name="max_int">
+        Setelah membedah sisi luar dari Daihatsu Gran Max, kini saat nya untuk menuju bagian interior mobil. Dengan dimensi yang besar pastinya mobil ini juga memiliki ukuran ruang  interior yang besar pula. Selain itu, Daihatsu juga dilengkapi dengan fitur kenyamanan bagi penggunanya.
+        \n
+        \n
+        Memasuki bagian interior, Daihatsu Grand Max hadir dengan tampilan kabin yang sangat luas dan rapi. Head room yang cukup tinggi membuat penumpang merasa lebih nyaman. Mobil ini dapat menampung lebih dari 5 atau 6 penumpang. Pada bagian kursi depan baik itu kursi pengemudi maupun penumpang telah dilengkapi dengan sliding seat yang dapat dimaju mundurkan sesuai dengan selera. Untuk seluruh seat juga telah disematkan 3 poin ELR seat belt untuk keamanan dan kenyamanan pengemudi dan juga penumpang.
+        \n
+        \n
+        Bergerak ke bagian dashboard, mini bus yang satu ini menghadirkan desain yang standar namun tetap modern dan aergonomis. Terdapat panel-panel AC serta port USB untuk menunjang kenyamanan penumpang di dalam kabin.
+        \n
+        \n
+        Pada lingkar kemudi, Gran Max telah dilengkapi dengan setir Rack dan Pinion dengan powersteering. Namun sisi lingkar kemudi belum dilengkapi dengan steering switch control. Sehingga mengurangi kepraktisan saat berkendara karena pengemudi harus menekan panel multimedia dengan manual. Speedometer analog turut melengkapi bagian setir mobil ini.
+        \n
+        \n
+        Menuju bagian penyimpanan, Daihatsu Gran Max memiliki ruang bagasi yang cukup luas untuk menyimpan berbagai macam barang berukuran besar maupun  kecil. Kursi pada baris kedua dan ketiga dapat dilipat untuk mendapatkan ruang yang lebih besar untuk bagasi.
+    </string>
+
+    <!--    Daihatsu Sigra-->
+    <string name="sigra_eks">
+        Dari segi dimensi, Daihatsu Sigra memiliki (Panjang x Lebar x Tinggi) 4070 x 1655 x 1600 mm. Jarak sumbu rodanya 2.525 mm dengan jarak pijak roda depan 1.470 mm, jarak pijak roda belakang 1.475 mm, dan tinggi dari tanah 180 mm. Secara keseluruhan, desain Sigra sejak awal memang tidak terlalu mengecewakan. Dulu, sempat tersirat ini hanyalah Ayla/Agya yang dipanjangkan. Tapi kenyataannya tidak. Bentuknya MPV proporsional, meski ukurannya kecil. Untuk yang baru ini, dilihat dari samping bedanya tidak banyak dengan yang lama, selain pelek 14 inci desain baru. Tapi wajah Sigra 2019 terlihat lebih gagah dengan bumper baru yang lebih bersudut. Siluet membentuk X membuatnya makin mirip dengan saudaranya, Terios dan Rush.
+        \n
+        \n
+        Inilah bahasa desain paras Daihatsu yang sekarang dianut. Grille atas Sigra R dibekali palang (lis) krom. Sementara untuk varian di bawahnya diwarnai sesuai bodi atau hitam. Varian Sigra R dibekali lampu kabut yang punya bentuk rumah baru yang terlihat modern. Selain itu, lampu utama sudah menggunakan teknologi dioda (LED) yang awet dan hemat energi. Hanya Sigra D yang masih mengandalkan halogen. Buritannya juga tidak banyak berubah. Cuma Sigra R punya tambahan garnish krom.
+    </string>
+    <string name="sigra_int">
+        Posisi tuas transmisi tetap di sebelah setir dan mudah dijangkau. Tapi perubahan secara visual terlihat dari warna gelap yang digunakan jok, dipadu abu-abu terang di dashboard dan trim pintu. Interior Daihatsu Sigra hadir dalam 2 warna dashboard, Dark dan Light Grey. Selain itu, kenop AC dibenahi dan lebih bercahaya. Bicara AC, air re-circulator di plafon masih tetap diandalkan. Belum ada double blower. Fokus sepertinya ditujukan pada kepraktisan.
+        \n
+        \n
+        MPV mungil ini punya tambahan ruang penyimpanan di beberapa bagian. Tempat menaruh handphone di bawah tuas transmisi, baki di bawah jok depan untuk menaruh sepatu atau semacamnya. Sigra R lagi-lagi punya keistimewaan. Ada head unit berbentuk layar monitor di tengah dasbor untuk mendukung fitur hiburan. Kemampuan koneksinya meliputi Bluetooth dan USB. Selain itu, karena dibekali kamera mundur, layar juga jadi wadah untuk menampilkan gambar.
+    </string>
+
+    <!--    Daihatsu Alya-->
+    <string name="alya_eks">
+        Alat peredaman Ayla terbagi menjadi dua pula, khususnya pada kaki-kaki belakang. Di depan, keduanya mengaplikasi Mac Pherson Struts dengan Per Keong dan Stabilizer. Sementara belakang Semi Independent Torsion Axle Beam dengan Per Keong, dan juga Stabilizer. Namun, untuk 1,0 liter minus Stabilizer. Fungsi komponen itu membantu ketika pengemudi ingin bermanuver, baik berpindah jalur atau menikung. Walau begitu, sistem pengereman tak ada yang berbeda. Cakram berventilasi memastikan penghelaan laju mantap di depan. Sedangkan di belakang hanya berupa tromol. Menariknya, Daihatsu tampak semakin melek terhadap keselamatan konsumen. Ayla teranyar telah dilengkapi Anti-lock Braking System (ABS) dan Electronic Brakeforce Distribution (EBD). Keduanya mencegah ban terkunci saat terjadi pengereman mendadak. Sayang hanya dibenamkan mulai 1.2 R tipe transmisi otomatis. Permak wajah membuat Ayla sepintas mirip saudaranya, Toyota Agya. Namun, nyatanya sangat berbeda. Tampak grille radiator yang semakin besar berbentuk trapezium terbalik dan dibalur warna hitam hingga front lip bumper depan.
+        \n
+        \n
+        Pada area ini terdapat pula lampu kabut di sudut kanan dan kiri bumper. Lampu kabut itu seolah agak menjorok ke dalam, akibat aksen bingkai kromium yang menempel. Sektor penerangan utama masih menganut proyektor yang dihiasi Daytime Running Light LED. Bergeser ke samping mobil. Transformasi lainnya tampak pada spion bergaya baru yang sudah bisa dilipat secara elektrik. Di sektor kaki-kaki, mobil masih menggunakan pelek berukuran 14-inci namun sudah bermodel two-tone. Di belakang, Daihatsu menggunakan mika lampu lebih bening untuk mempercerah tampilan lampu kombinasi berteknologi LED. Perangkat lain yang tersedia sebelumnya, seperti rear spoiler dengan high mount stop lamp tetap ada. Secara keseluruhan dimensi varian ini (PXLXT) mencapai 3.660 mm x 1.600 mm x 1.520 mm, dengan ground clearance 180 mm. Kondisi berbeda dialami varian mesin 1.0. Daihatsu tak drastis mengubah wajahnya. Varian ini masih mengaplikasikan gaya facelift 2017, dengan aksen garis yang ditipiskan.
+        \n
+        \n
+        Bumpernya pun satu corak dengan bodi. Walau begitu, Daihatsu sukses membuatnya terlihat lebih atraktif. Tak ada penambahan lain seperti versi 1,2-liter. Peleknya masih dipasangkan dua model, yakni alloy berpalang lurus dan kaleng. Panjangnya juga lebih pendek, yakni 3.640 mm. Penyebabnya karena tidak menggunakan rear spoiler. Namun, ground clearance-nya tetap sama dengan varian atas.
+    </string>
+    <string name="alya_int">
+        Interiornya masih tetap mengedepankan ruangan lapang, resik dan mampu menampung lima orang dengan mudah. Penambahan fitur juga dilakukan dan mampu memberikan kenyamanan baik bagi pengemudi maupun penumpang. Konsol tengah Ayla menerapkan style melayang, dengan pengatur suhu kabinnya tak lagi pakai kenop putar, melainkan digital. Head unit 2DIN layar sentuh, dapat difungsikan melalui kontrol audio di lingkar kemudi. Ornamen perak pada tuas transmisi dan gagang pintu turut meramaikan suasana kabin. Perlu diketahui, semua perangkat tersebut hanya tersedia di varian 1.2. Mesin 1.0 hanya mendapatkan panel meter dengan aksen merah dan sistem infotainmentnya juga biasa saja. Ada pilihan 1DIN dan 2DIN yang memiliki koneksi USB dan AUX. Terlepas dari perbedaan itu, Ayla memiliki banyak penyimpanan barang seperti door trim pocket, rear seat cup holder, console tray, glove box dan botol holder di pintu. Sayangnya, seluruh tipe Ayla tak dilengkapi pengaturan ketinggian jok, atau cuma empat arah. Kemudi pun tak memiliki fungsi tilt, apalagi telescopic. Meski tak terlalu lengkap, cukup untuk mobil keluarga kecil berbanderol terjangkau. Misal saat parkir, alat bantu berupa back sonar akan menginformasikan pengemudi, ketika mobilnya mendekati objek tak terlihat dari spion. Perangkat itu sudah ada di semua varian Ayla.
+        \n
+        \n
+        Mau lebih aman lagi, bisa memilih varian 1.2 R ke atas. Punya kamera belakang yang hasil pengambilan gambarnya ditampilkan di head unit. Lanjut ke fitur keselamatan, keempat pintu dimaksimalkan dengan side impact beam. Dampak tumbukan dari samping bisa diminimalisir. Kemudian sabuk pengaman 3 titik telah menganut pretensioner, meski memang baru ada di tipe X 1,2 liter ke atas. Kondisi sama juga berlaku pada ketersediaan Dual SRS Airbag di depan. Pengguna Ayla pun tak perlu takut mobilnya dicuri, ada alarm yang terintegrasi kunci.
+    </string>
+
+    =======================================================
+    Suzuki
+    <!--    suzuki baleno-->
+    <string name="baleno_eks">
+        Perubahan pada desain tidak banyak, tapi sangat mengena. Tampilannya kian elok dipandang, lewat penyegaran di bagian terpenting. Muka paling terlihat bedanya. Grille baru tampak melebar ke bawah dengan pola baru di dalamnya.Bemper berubah total, tampak sporty berupa airdam ekstrabesar sampai ke area lampu kabut. Solusi dari segi desain eksterior memang pintar. Suzuki Indonesia mengambil gaya Baleno RS yang notabene varian tertinggi di India. Lampu kini memakai LED dengan model proyektor.
+        \n
+        \n
+        Mata pun lebih dimanjakan saat melihat bagian samping. Pelek baru sekarang berdesain baling-baling yang juga sama seperti milik Baleno RS. Ukurannya masih tetap 16 inci dengan ban 195/55 R16. Tapi kini terlihat lebih besar akibat rancangan desainnya.
+        \n
+        \n
+        Proporsi bodi pun makin enak dilihat. Seolah lebih pas dari segala sudut, meski kesan jangkungnya masih jelas terlihat. Ornamen lip berwarna abu-abu gelap di sekeliling bodi masih ada. Sayang desain bokong tak mendapat ubahan. Banyak permainan aksen kromium yang menurut kami justru mengaburkan kesan sport dari bagian muka.
+        \n
+        \n
+        Ubahan eksterior tidak mengubah dimensi Baleno sama sekali. Panjangnya tetap 3.995 mm, lebar 1.745 mm, tinggi 1.510 dan wheelbase 2.520 mm. Ternyata ukurannya sedikit kalah besar dari Honda Jazz dan Toyota Yaris. Walau bila dilihat terpisah, bodi Baleno lebih gemuk.
+    </string>
+    <string name="baleno_int">
+        Desain interior masih sama tak ada yang diganti. Pola desain sudah dikenal, berupa bentuk segitiga di bagian tengah dashboard. Setir terlihat kuno karena masih mencomot milik Ertiga lama. Hanya mengubah permainan warna dan corak kabin agar tidak terlalu monoton.
+        \n
+        \n
+        Material fabric biru gelap mendominasi jok hingga door trim. Aksen abu dipertahankan untuk memberi kesan elegan. Komposisi fitur tidak berubah. Head unit tetap berupa monitor 6,8-inci tersemat SmartPlay Video. Koneksi smartphone melalui Bluetooth sebagai sarana komunikasi maupun hiburan.
+        \n
+        \n
+        Panel AC sudah berbentuk tombol dengan layar digital. Fitur climate control terpasang didalamnya yang sangat memudahkan pengaturan suhu kabin agar kian nyaman. Menyalakan dan mematikan mesin lewat tombol saja. Pengaturan posisi mengemudi sempurna mudah didapat berkat tilt dan telescopic steering.
+        \n
+        \n
+        Kursi belakang Baleno tergolong paling lega di kelasnya. Terutama ruang kaki yang lapang yang tercipta akibat wheelbase panjang. Namun ruang kepala agak terbatas dan garis bahu tinggi mengurangi daya pandang penumpang belakang. Bagasi juga tergolong lapang, hanya saja akses menaruh barang agak sulit dikarenakan bibir pintu tinggi.
+    </string>
+
+    <!--    Suzuki Ertiga-->
+    <string name="ertiga_eks">
+        Tampilan eksterior banyak mengundang perdebatan dan kritik. Sebab terlihat tidak original dan banyak kemiripan dengan mobil lain. Muka depan mengingatkan wajah Toyota Kijang Innova dengan lekukan di ujung lampu yang menyerupai Mitsubishi Outlander Sport. Area fog lamp tampak agresif berkat sirip yang menyilang membelah. Bagian samping tidak sepolos dulu. Walau masih tersisa detail Ertiga lama, garis tegas nan besar berhasil memberi efek yang tidak monoton lagi.
+        \n
+        \n
+        Bagian belakang kembali tidak original. Kaca pilar D yang dibuat menyatu dengan kaca belakang, menciptakan kesan mengambang tapi banyak diaplikasi mobil lain. Mengenai lampu belakang juga mudah dikaitkan dengan desain bokong Mitsubishi Xpander dan serupa Honda CR-V juga. Area roda tetap sama, pelek desain baru masih berukuran 15” dan dibalut ban 185/65. Secara keseluruhan, desain All New Ertiga murni sebuah MPV tanpa ada campuran karakter SUV.
+    </string>
+    <string name="ertiga_int">
+        Selain tampilan luar, masuk interior tidak akan langsung merasa sespesial varian termahal. Tidak terlalu berbeda dengan GX. Nuansa elegan dikuatkan oleh skema warna gelap dari dasbor sampai bangku. Permainan ornamen kayu tersebar di seluruh kabin untuk memberikan sensasi berkelas. Barulah setir kulit berusaha menggugah pengemudi selama berkendara.
+        \n
+        \n
+        Sarana hiburan tersaji lewat head unit touchscreen 8 inci. Terakhir, ada sentuhan kontrol bak mobil premium. Pengaturan suhu dapat diatur secara otomatis sesuai keinginan pengemudi. Selain itu, terdapat smart entry berikut tombol start/stop engine guna memudahkan pengoperasian.
+        \n
+        \n
+        Meski begitu, mendengar equipment list sampai di titik ini jelas persis GX tanpa pembeda. Namun lanjut diulik lebih dalam, barulah terdengar tambahan safety features. Jika GX dan varian bawah baru mendapatkan harness reversing camera, trim Suzuki Sport sudah mendapatkan set komplet untuk ditampilkan pada monitor tengah.
+        \n
+        \n
+        Ekstra fitur safety menjadi inti perbedaan dengan model lain. Suzuki Sport menawarkan Vehicle Stability Control (VSC). Mungkin tidak secara langsung dapat Anda rasakan, tapi fitur ini berperan penting terhadap keselamatan. Peranti menjaga sikap mobil sesuai keinginan pengemudi, meminimalisir berbagai risiko selip seperti oversteer atau understeer yang dapat berujung celaka. Sebagai tambahan spesifik Sport, Hill Hold Control bantu menyederhanakan manuver menanjak.
+        \n
+        \n
+        Ya, komponen ini melengkapi fitur standar Ertiga. Di antaranya terdapat sistem pengereman ABS + EBD, menyokong pengendalian di kondisi darurat. Ketika celaka tak terelakkan, hanya dual SRS Airbag melindungi. Tanpa VSC dan HHC, fitur safety ini terlihat sangat moderat di kalangan LMPV.
+    </string>
+
+    <!--    Suzuki Jimmy-->
+    <string name="jimmy_eks">
+        Secara desain, bentuknya menganut aliran retro dengan bentuk kotak. Sepintas akan mengingatkan pada Jimny jangkrik, dengan muka SJ410. Tidak heran kalau pecinta Jimny langsung gelisah kepingin punya. Bentuk Jimny begiu mengotak sehingga posisi grill dan lampu depan pun tegak. Bukan sebuah bentuk yang aerodinamis memang, tapi siapa yang butuh aerodinamika di mobil off road? Posisi lampu belakang yang pindah kembali ke bemper adalah keputusan yang tepat oleh para desainer. Jimny sebelum ini memiliki lampu di bagian pinggang, dan dikritik sebagai bukan Jimny banget.
+        \n
+        \n
+        Di pintu bagasi, konde berisi ban cadangan tersemat. Kami bukan penggemar posisi ban cadangan seperti ini, tapi tidak akan mengkitisi karena itulah Jimny. Secara keseluruhan, mobil ini enak dilihat dengan desainnya yang unik. Mereka yang tahu akan acungi jempol. Milenial akan berpikir dulu sebelum memuji, dan mereka yang tidak mengerti akan tertarik dengan kepraktisan mengurusnya. Itulah Jimny.
+    </string>
+    <string name="jimmy_int">
+        Interiornya juga khas Jimny. Panel bodi di beberapa bagian dibiarkan terbuka, dengan cat yang tentunya rapi. Dashboardnya tetap tegak dan tidak tebal. Ciri khas sebuah offroader dengan tujuan memaksimalkan ruang dan kepraktisan. Sistem hiburan juga tidak direpotkan oleh kehadiran layar multimedia. Cukup doube DIN. Tapi bagi yang mau, kami perkirakan akan tersedia juga layar sentuh ini. Joknya terasa tebal saat diduduki. Sayang kami tidak sempat mencoba baris belakang. Tapi kalau sepintas melihat, sepertinya untuk ukuran manusia Asia, ruang kakinya akan cukup saja, bahkan cenderung sempit.
+    </string>
+
+    <!--    Suzuki ignis-->
+    <string name="ignis_eks">
+        Tubuh mungil Ignis diberikan sentuhan bergaya SUV. Ini dapat dilihat dari aplikasi garis-garis tegas di sekujur tubuh Ignis yang berdimensi (PxLxT) 3.700 mm x 1.690 mm x 1.595 mm. Wajahnya pun terlihat berbeda karena mengalami perubahan di beberapa lini. Salah satunya adalah perubahan di sektor grille. Jika dahulu grille-nya mengakomodir garis-garis horizontal, kini diganti dengan aksen U yang diapit dua lampu utama. Bila dulu area di dalamnya bermotif honeycomb, sekarang tertutup rapat dan bercorak gelap. Lampu utama sudah sudah berteknologi LED, dikombinasikan sein, dan daytime running light (DRL) yang juga membentuk huruf U. Bumper belakang direvisi dengan penambahan diffuser perak. Rumah foglamp juga tak luput dari pembaruan. Khusus untuk GL yang tak memiliki lampu kabut, bezelnya diberi detail 3 garis paralel. Bagian samping mobil pun dibuat kekar.
+        \n
+        \n
+        Aplikasi over fender, dengan tepian hitam tampak senada dengan side skirt. Di kaki-kaki, mobil ini menggunakan pelek berwarna hitam berukuran 15 inci yang terbungkus ban 175/65. Pola bingkai roda mirip kipas dengan lima bilah terpasang. Bentuk kotak Ignis cukup unik, terutama dilihat dari samping. Pilar A dan B digelapkan, tapi atapnya senada bodi. Desain jendela bersudut kaku melengkapi. Suzuki pun menyematkan detail berupa insang, baik di samping kap dan buritan. Kecil memang, tapi mampu menguatkan wujudnya menjadi semakin menarik. Spion sewarna pilar dan kontras bodi terintegrasi sein menempel. Sementara di atas terpampang roof rail silver. Bukan sekadar pendongkrak rupa, tapi bisa dimanfaatkan untuk mengaplikasikan roof rack. Namun, palang atap itu bisa dinikmati untuk varian teratas, GX. Desain bumper buritan bak tersenyum tak ada lagi. Suzuki mentransformasinya lebih sporty.
+        \n
+        \n
+        Diffuser perak kini bak jenggot. Reflector merah terpajang di kedua ujung bumper. Lampu kombinasi masih sama, menjamah sedikit area pintu. Tengahnya dibuat berundak-undak yang menegaskan ketangguhan. Kaca belakangnya dipasangi defogger, guna mencegah terjadinya pengembunan saat berkendara di kondisi hujan. Keseluruhan bodi dibubuhkan banyak pilihan kelir. Warna sebelumnya untuk GX dan GL:tetap dihadirkan, yaitu : Pearl Artic, Silky Silver, Glistening Grey dan pearl Midnight Black. Ada tiga baru untuk GX dalam two-tone: Stargaze Blue + Black, Stargaze Blue + Silver dan Lucant Orange + Black. Sementara varian GL diperkuat: Lucant Orange dan Torquise Blue.
+    </string>
+    <string name="ignis_int">
+        Kabinnya didominasi kombinasi warna putih dan hitam. Garisnya tak kompleks, dengan tatanan fitur terasa menarik. Ornamen silver juga tersebar di beberapa area. Khusus unit berkelir Stargaze Blue + Black dan Silky Silver, detailnya bukan perak, tapi Dark Blue. Motif pelapis jok diperbarui. Varian GL ada pola jahitan silang kecil yang mencakup sandaran dan dudukan. Sementara GX lebih visibel karena lebih besar coraknya. Walau Ignis berdimensi kecil, tapi kabinnya tetap lega dan mampu mengangkut hingga 5 orang. Area bagasinya juga tetap bisa mengakomodasi banyak barang di belakang. Ini dapat dimaksimalkan dengan melipat jok baris kedua berkomposisi 60:40.
+        \n
+        \n
+        Kenyamanan penumpang juga dimaksimalkan lewat tersedia cup holder di banyak tempat, serta kompartemen. Fitur hiburan diperkuat head unit touchscreen untuk varian GX. Ini dapat memutar banyak media, dan dapat dihubungkan ke smartphone. Perangkat bisa dikontrol lewat tombol di kemudi, memastikan fokus pengemudi tetap ke jalan. Kenyamanan terkait suhu kabin juga praktis. Pengaturannya berupa tombol dengan layar digital. Ini sudah mengimplementasikan Auto Climate. Ignis juga sudah dibekali teknologi keyless dan dipadukan dengan start/stop button untuk menyalakan-mematikan mesin. Namun, perlu dipahami, ini hanya tersedia untuk varian tertinggi.
+        \n
+        \n
+        Pengemudi juga dimanjakan pengaturan jok empat arah, serta penyetelan tilt pada setir. Ignis mengandalkan platform generasi baru Heartect. Ini membuat tubuhnya lebih rigid, tapi tetap ringan sehingga mempengaruhi efisiensi. Sekaligus menciptakan performa berkendara terbaik. Suzuki memadukannya dengan kaki-kaki berkonfigurasi MacPherson strut dengan coil spring di depan. Sedangkan di belakang Torsion Beam dengan coil spring. Rem cakram berventilasi dibenamkan di muka, sedangkan tromol mengerem roda buritan. Teknologi Anti-Lock Braking System (ABS) dan Electronic Brake Distribution (EBD) mendukungnya. Penghelaan laju, terutama saat kondisi darurat atau jalan licin aman, karena terhindar dari selip. Distribusi tekanan rem juga dinamis, mengikuti kebutuhan. Untuk meminimalisir impak tumbukan, penumpang depan dan pengemudi dilindungi Dual SRS Airbag.
+        \n
+        \n
+        Tabrakan samping juga direduksi dampaknya berkat side impact beam. Pengguna ignis yang memiliki anak juga tak perlu risau. Isofix yang berfungsi menjadi tambatan kursi khusus anak sudah tersedia. Urusan parkir juga aman, karena terdapat parkir sensor untuk GX. Varian bawah bisa memilikinya, tapi menjadi aksesoris tambahan. Suzuki pun menyajikan banyak komponen tambahan, seperti rear upper spoiler, door visor dan side under spoiler. Termasuk layar sentuh untuk GL.
+    </string>
+
+    <!--    Suzuki Karimun-->
+    <string name="karimun_eks">
+        Desain Karimun Wagon R sejatinya tak banyak berubah dari 2013. Namun tiga tahun lalu, Suzuki merevisi perihal kelir dan beberapa aksesori. Namun hal ini tak mengubah banyak. Tetap ada yang menginterpretasikan buruk, maupun bagus. Alias menuai pro kontra atas desain boxy yang eksentrik ini.
+        \n
+        \n
+        Baik di seri GL pun, pencahayaan belum memakai LED. Lampu utama masih mendapat sinar dari bohlam halogen. Plus dipancarkan lewat mika multireflektor. Begitu pula di buritan. Tapi paling tidak, pelek alloy star shape membuatnya tampak stylish dan tidak pasaran (GL). Ketimbang varian GA dan Blind Van yang masih mengadopsi pelek kaleng serta bumper trim plastik.
+        \n
+        \n
+        Sebetulnya, masih ada varian tertinggi yang disebut GS. Tapi persepsinya beda sama sekali. Fasad Wagon R lama tak membekas. Wajahnya lebih kental nuansa kei car Jepang. Unik, sekaligus atraktif. Jika dilihat keseluruhan pun lebih proporsional dibandingkan seri GA dan GL.
+        \n
+        \n
+        Dimensi mobil ini terbilang ringkas, secara bersamaan kabinnya luas. Padahal panjang keseluruhan 3,6 meter, lebar 1,475 meter, serta tinggi 1,67 meter. Dan jarak poros rodanya hanya 2,4 meter, alias kompak. Bahkan, berat kosongnya kurang dari satu ton. Lantas saat terisi penuh mencapai 1.350 kg.
+    </string>
+    <string name="karimun_int">
+        Nuansa dalam kabin tak neko-neko. Garis dashboard dibuat serba presisi, tanpa gurat ekstrem sama sekali. Tapi secara bersamaan, desainnya tampak elegan dan mewah. Terutama di seri GL yang memakai paduan paduan krem hitam dan aluminium.
+        \n
+        \n
+        Integrated audio panel pun menambah nuansa minimalis serta apik. Di samping itu, head unit mampu membaca platform CD (2-DIN), AUX, sampai USB. Cukup buat kelas LCGC. Kokpit sebetulnya sederhana. Menginformasikan data seadanya, seputar kecepatam, fuel gauge, serta putaran mesin dan odometer. Yang unik, ada indikator gear shift untuk mengetahui momen tepat berpindah gigi.
+        \n
+        \n
+        Perangkat keamanan diseragamkan pada semua varian. SRS Airbag telah tersedia, meski baru di sisi pengemudi. Dan kunci dengan immobilizer turut diaplikasikan baik pada GA, Blind Van, maupun GL. Hanya saja, seri di bawah GL tak mendapat power window, head unit, power outlet, serta interior bernuansa gelap.
+    </string>
+
+    <!--    Suzuki S-Preso-->
+    <string name="preso_eks">
+
+    </string>
+    <string name="preso_int">
+
+    </string>
+
+<!--    Suzuki Sx4-->
+    <string name="sx4_eks">
+        Sesuai dengan embel-embel crossover, Suzuki SX4 X-Over 2007 merupakan hasil kawin silang dari Grand Vitara generasi ketiga dan Swift generasi kedua. Hal ini terlihat dari tampilan lampu depan dan gril-nya yang mirip Vitara, namun dengan bodi lebih kompak. Bentuk headlight halogennya melengkung di bagian luar, serta cukup tajam di dekat lampu sein. Gril utama berbentuk trapesium dengan lubang-lubang kecil untuk jalur masuk angin, sedangkan di bumper terdiri dari palang vertikal lima garis yang ditambah garis horizontal. Ada sentuhan aksen hitam pada ruang lampu kabutnya, sehingga memunculkan sedikit kesan sporty.
+        \n
+        \n
+        Meski merupakan mini SUV, Suzuki tetap memunculkan kesan petualangan pada Suzuki SX4 X-Over 2007 lewat hadirnya roof rail. Fitur ini tentu sangat menguntungkan, apalagi pada musim-musim liburan maupun jelang Idul Fitri sebagai tempat menampung barang-barang bila bagasi belakang sudah tidak muat.
+        \n
+        \n
+        Nuansa sporty kembali terasa dengan hadirnya aksen hitam di sepanjang side skirt dan fender ban, serta pada keempat pintunya. Terdapat lampu sinyal yang sejajar dengan gagang pintu, serta garis tipis mendatar di atasnya. Untuk memberikan jarak pandang maksimal, sudut pilar A dibuat tinggi, ditambah kaca depan lebar. Ground clearance mobil ini terbilang tinggi, terbilang aman untuk dibawa ke berbagai medan.
+        \n
+        \n
+        Emblem X-Over, Suzuki, dan SX4 menjadi salah satu pusat perhatian bagian belakang Suzuki SX4 X-Over 2007. Tepat di bawah pintu belakang, tersemat sepasang lampu hazard yang menemani tugas komponen yang sama di bagian atas. Kesan gagah mobil ini semakin lengkap dengan hadirnya diffuser belakang. Hanya saja crossover ini tidak punya spoiler, jadi kesan sportynya agak berkurang karena hal ini.
+    </string>
+
+    <string name="sx4_int">
+        Begitu membuka kabin Suzuki SX4 X-Over 2007, kita akan mendapati ruangan cukup lega di kelasnya. Urusan aksen, bagian jok, setir, dan dasbornya memadukan warna hitam dan silver. Tidak ada sentuhan apapun pada dasbor penumpang selain lubang ac berbentuk lingkaran. Terkesan rapi dan minimalis.
+        \n
+        \n
+        Untuk mempermudah jangkauan, beberapa tombol seperti volume musik dapat diakses dari palang kiri setir. Kami rasa ini akan memanjakan penikmat radio atau lagu di sepanjang perjalanan. Sayangnya, belum ada port USB maupun layar LED untuk mendengarkan karya-karya musisi dari ponsel pintar. Namun Anda bisa mengakalinya dengan memanfaatkan modul pemantik api di bawah pengontrol AC.
+        \n
+        \n
+        Kursi Suzuki SX4 X-Over 2007 menggunakan bahan kain sintetis dengan sentuhan gundukan-gundukan kecil silver supaya tubuh tidak melorot karena licin. Ruang kaki terbilang lega, baik di depan maupun belakang. Sayangnya, sudut kursi belakang terlalu tegak untuk versi CBU-nya. Kemungkinan ini dikarenakan perbedaan postur tubuh orang Indonesia dengan Jepang.
+        \n
+        \n
+        Mobil dengan kapasitas lima penumpang ini bisa dikurangi jumlahnya untuk ruang bagasi lebih lebar. Anda cukup melipat kursi belakang, maka lebih banyak barang bisa masuk di dalam kabin. Bicara soal melipat, model jok penumpang belakang ini terpisah dengan skema 40-60, sehingga kita bebas untuk menegakkan keduanya atau salah satu saja. Kami rasa beberapa dari Anda tidak ingin terlalu mengorbankan kapasitas penumpang untuk menampung bawaan ekstra.
+    </string>
+
+    <string name="xl7_eks">
+        Untuk membedakan XL7 dengan Ertiga, Suzuki merancang bagian eksterior menjadi lebih gagah, yang ubahannya dominan di bagian depan. Fascia depan XL7 menggunakan lampu utama dengan garis desain tegas, lengkap dengan LED DRL sebagai standard. Garis desain lampu utama menyatu dengan bentuk grille heksagonal berwarna hitam, dengan aksen chrome di tengah grille yang tersambung dengan garis DRL.
+        \n
+        \n
+        Bumper depan punya lekukan garis yang tegas dan berotot, diikuti oleh posisi kap mesin lebih tinggi. Begitu juga dengan adanya skid plate di bawah bumper untuk tampilkan karakter khas SUV, diikuti body cladding hitam di sekeliling body. Velg alloy 16 inci berdesain robust dengan ban 195/60, mendukung ground clearance lebih tinggi menjadi 200 mm.
+        \n
+        \n
+        Aksesoris khas SUV tidak ketinggalan hadir di XL7, yaitu roof rail. Suzuki menyediakan total enam pilihan warna eksterior untuk XL7, yang termasuk opsi warna two-tone untuk eksterior XL7, yang tersedia hanya untuk varian XL7 Alpha.
+    </string>
+    <string name="xl7_int">
+        Tidak banyak yang berubah untuk interior Suzuki XL7 jika dibandingkan dengan Ertiga, dengan layout dan desain yang benar-benar sama. Perbedaan utamanya adalah XL7 tampil dengan nuansa interior berwarna hitam, untuk memancarkan kesan sporty dan Tangguh. Namun Suzuki tetap menyediakan sejumlah fitur baru untuk menjadi pembeda XL7.
+        \n
+        \n
+        Dashboard XL7 tidak lagi dihiasi oleh elemen panel kayu seperti di Ertiga, melainkan menggunakan aksen ala serat karbon berwarna hitam gloss. Tentunya sentuhan tersebut membuat tampilan kabin XL7 lebih sporty dan eksklusif. Di tengah dashboard tersedia layer sentuh 8 inci sebagai pusat infotainment, dengan dilengkapi fungsi koneksi lebih banyak untuk gadget.
+        \n
+        \n
+        Fitur unggulan utama dari interior XL7 adalah hadirnya Smart E-Mirror, di mana kaca spion tengah terhubung ke dua unit kamera. Kamera pertama adalah di bagian belakang, untuk membantu manuver parkir mundur, lalu kamera kedua ada di balik spion yang berfungsi sebagai digital video recorder (DVR) alias dashcam. Gambar dari kedua kamera ditampilkan pada spion langsung.
     </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

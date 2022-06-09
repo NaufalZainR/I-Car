@@ -44,6 +44,27 @@
         <action
             android:id="@+id/action_bmwFragment_to_bmwi8Fragment"
             app:destination="@id/bmwi8Fragment" />
+        <action
+            android:id="@+id/action_bmwFragment_to_bmwx7Fragment"
+            app:destination="@id/bmwx7Fragment" />
+        <action
+            android:id="@+id/action_bmwFragment_to_bmwm4Fragment"
+            app:destination="@id/bmwm4Fragment" />
+        <action
+            android:id="@+id/action_bmwFragment_to_bmwz4Fragment"
+            app:destination="@id/bmwz4Fragment" />
+        <action
+            android:id="@+id/action_bmwFragment_to_bmw520iFragment"
+            app:destination="@id/bmw520iFragment" />
+        <action
+            android:id="@+id/action_bmwFragment_to_bmw530iFragment"
+            app:destination="@id/bmw530iFragment" />
+        <action
+            android:id="@+id/action_bmwFragment_to_bmw218iFragment"
+            app:destination="@id/bmw218iFragment" />
+        <action
+            android:id="@+id/action_bmwFragment_to_bmw8serisFragment"
+            app:destination="@id/bmw8serisFragment" />
     </fragment>
     <fragment
         android:id="@+id/mercedezFragment"
@@ -62,6 +83,30 @@
         <action
             android:id="@+id/action_suzukiFragment_to_dashboardFragment"
             app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_suzukiFragment_to_suzukibalenoFragment"
+            app:destination="@id/suzukibalenoFragment" />
+        <action
+            android:id="@+id/action_suzukiFragment_to_suzukiertigaFragment"
+            app:destination="@id/suzukiertigaFragment" />
+        <action
+            android:id="@+id/action_suzukiFragment_to_suzukijimmyFragment"
+            app:destination="@id/suzukijimmyFragment" />
+        <action
+            android:id="@+id/action_suzukiFragment_to_suzukiignisFragment"
+            app:destination="@id/suzukiignisFragment" />
+        <action
+            android:id="@+id/action_suzukiFragment_to_suzukikarimunFragment"
+            app:destination="@id/suzukikarimunFragment" />
+        <action
+            android:id="@+id/action_suzukiFragment_to_suzukipresoFragment"
+            app:destination="@id/suzukipresoFragment" />
+        <action
+            android:id="@+id/action_suzukiFragment_to_suzukisx4Fragment"
+            app:destination="@id/suzukisx4Fragment" />
+        <action
+            android:id="@+id/action_suzukiFragment_to_suzukixl7Fragment"
+            app:destination="@id/suzukixl7Fragment" />
     </fragment>
     <fragment
         android:id="@+id/daihatsuFragment"
@@ -71,6 +116,30 @@
         <action
             android:id="@+id/action_daihatsuFragment_to_dashboardFragment"
             app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_daihatsuFragment_to_daihatsuxeniaFragment"
+            app:destination="@id/daihatsuxeniaFragment" />
+        <action
+            android:id="@+id/action_daihatsuFragment_to_daihatsusirionFragment"
+            app:destination="@id/daihatsusirionFragment" />
+        <action
+            android:id="@+id/action_daihatsuFragment_to_daihatsuluxioFragment"
+            app:destination="@id/daihatsuluxioFragment" />
+        <action
+            android:id="@+id/action_daihatsuFragment_to_daihatsuteriosFragment"
+            app:destination="@id/daihatsuteriosFragment" />
+        <action
+            android:id="@+id/action_daihatsuFragment_to_daihatsurockyFragment"
+            app:destination="@id/daihatsurockyFragment" />
+        <action
+            android:id="@+id/action_daihatsuFragment_to_daihatsugrandmaxFragment"
+            app:destination="@id/daihatsugrandmaxFragment" />
+        <action
+            android:id="@+id/action_daihatsuFragment_to_daihatsusigraFragment"
+            app:destination="@id/daihatsusigraFragment" />
+        <action
+            android:id="@+id/action_daihatsuFragment_to_daihatsualyaFragment"
+            app:destination="@id/daihatsualyaFragment" />
     </fragment>
     <fragment
         android:id="@+id/hyundaiFragment"
@@ -80,6 +149,30 @@
         <action
             android:id="@+id/action_hyundaiFragment_to_dashboardFragment"
             app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_hyundaiFragment_to_hyundaicretaFragment"
+            app:destination="@id/hyundaicretaFragment" />
+        <action
+            android:id="@+id/action_hyundaiFragment_to_hyundaiioniqFragment"
+            app:destination="@id/hyundaiioniqFragment" />
+        <action
+            android:id="@+id/action_hyundaiFragment_to_hyundaistariaFragment"
+            app:destination="@id/hyundaistariaFragment" />
+        <action
+            android:id="@+id/action_hyundaiFragment_to_hyundaikonaFragment"
+            app:destination="@id/hyundaikonaFragment" />
+        <action
+            android:id="@+id/action_hyundaiFragment_to_hyundaipalisadeFragment"
+            app:destination="@id/hyundaipalisadeFragment" />
+        <action
+            android:id="@+id/action_hyundaiFragment_to_hyundaisantaFragment"
+            app:destination="@id/hyundaisantaFragment" />
+        <action
+            android:id="@+id/action_hyundaiFragment_to_hyundaicesterFragment"
+            app:destination="@id/hyundaicesterFragment" />
+        <action
+            android:id="@+id/action_hyundaiFragment_to_hyundaitusconFragment"
+            app:destination="@id/hyundaitusconFragment" />
     </fragment>
     <fragment
         android:id="@+id/toyotaFragment"
@@ -107,6 +200,30 @@
         <action
             android:id="@+id/action_hondaFragment_to_dashboardFragment"
             app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_hondaFragment_to_hondabrvFragment"
+            app:destination="@id/hondabrvFragment" />
+        <action
+            android:id="@+id/action_hondaFragment_to_hondacrvFragment"
+            app:destination="@id/hondacrvFragment" />
+        <action
+            android:id="@+id/action_hondaFragment_to_hondahrvFragment"
+            app:destination="@id/hondahrvFragment" />
+        <action
+            android:id="@+id/action_hondaFragment_to_hondabrioFragment"
+            app:destination="@id/hondabrioFragment" />
+        <action
+            android:id="@+id/action_hondaFragment_to_hondacityFragment"
+            app:destination="@id/hondacityFragment" />
+        <action
+            android:id="@+id/action_hondaFragment_to_hondacivicFragment"
+            app:destination="@id/hondacivicFragment" />
+        <action
+            android:id="@+id/action_hondaFragment_to_hondamobilioFragment"
+            app:destination="@id/hondamobilioFragment" />
+        <action
+            android:id="@+id/action_hondaFragment_to_hondaaccordFragment"
+            app:destination="@id/hondaaccordFragment" />
     </fragment>
     <fragment
         android:id="@+id/bmwi8Fragment"
@@ -115,5 +232,353 @@
         <action
             android:id="@+id/action_bmwi8Fragment_to_bmwFragment"
             app:destination="@id/bmwFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmwx7Fragment"
+        android:name="org.tubes.icar.bmw.Bmwx7Fragment"
+        android:label="fragment_bmwx7"
+        tools:layout="@layout/fragment_bmwx7" >
+        <action
+            android:id="@+id/action_bmwx7Fragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmwm4Fragment"
+        android:name="org.tubes.icar.bmw.Bmwm4Fragment"
+        android:label="fragment_bmwm4"
+        tools:layout="@layout/fragment_bmwm4" >
+        <action
+            android:id="@+id/action_bmwm4Fragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmwz4Fragment"
+        android:name="org.tubes.icar.bmw.Bmwz4Fragment"
+        android:label="fragment_bmwz4"
+        tools:layout="@layout/fragment_bmwz4" >
+        <action
+            android:id="@+id/action_bmwz4Fragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmw520iFragment"
+        android:name="org.tubes.icar.bmw.Bmw520iFragment"
+        android:label="fragment_bmw520i"
+        tools:layout="@layout/fragment_bmw520i" >
+        <action
+            android:id="@+id/action_bmw520iFragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmw530iFragment"
+        android:name="org.tubes.icar.bmw.Bmw530iFragment"
+        android:label="fragment_bmw530i"
+        tools:layout="@layout/fragment_bmw530i" >
+        <action
+            android:id="@+id/action_bmw530iFragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmw218iFragment"
+        android:name="org.tubes.icar.bmw.Bmw218iFragment"
+        android:label="fragment_bmw218i"
+        tools:layout="@layout/fragment_bmw218i" >
+        <action
+            android:id="@+id/action_bmw218iFragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmw8serisFragment"
+        android:name="org.tubes.icar.bmw.Bmw8serisFragment"
+        android:label="fragment_bmw8seris"
+        tools:layout="@layout/fragment_bmw8seris" >
+        <action
+            android:id="@+id/action_bmw8serisFragment_to_bmwFragment"
+            app:destination="@id/bmwFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondabrvFragment"
+        android:name="org.tubes.icar.honda.HondabrvFragment"
+        android:label="fragment_hondabrv"
+        tools:layout="@layout/fragment_hondabrv" >
+        <action
+            android:id="@+id/action_hondabrvFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondacrvFragment"
+        android:name="org.tubes.icar.honda.HondacrvFragment"
+        android:label="fragment_hondacrv"
+        tools:layout="@layout/fragment_hondacrv" >
+        <action
+            android:id="@+id/action_hondacrvFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondahrvFragment"
+        android:name="org.tubes.icar.honda.HondahrvFragment"
+        android:label="fragment_hondahrv"
+        tools:layout="@layout/fragment_hondahrv" >
+        <action
+            android:id="@+id/action_hondahrvFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondabrioFragment"
+        android:name="org.tubes.icar.honda.HondabrioFragment"
+        android:label="fragment_hondabrio"
+        tools:layout="@layout/fragment_hondabrio" >
+        <action
+            android:id="@+id/action_hondabrioFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondacityFragment"
+        android:name="org.tubes.icar.honda.HondacityFragment"
+        android:label="fragment_hondacity"
+        tools:layout="@layout/fragment_hondacity" >
+        <action
+            android:id="@+id/action_hondacityFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondacivicFragment"
+        android:name="org.tubes.icar.honda.HondacivicFragment"
+        android:label="fragment_hondacivic"
+        tools:layout="@layout/fragment_hondacivic" >
+        <action
+            android:id="@+id/action_hondacivicFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondamobilioFragment"
+        android:name="org.tubes.icar.honda.HondamobilioFragment"
+        android:label="fragment_hondamobilio"
+        tools:layout="@layout/fragment_hondamobilio" >
+        <action
+            android:id="@+id/action_hondamobilioFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hondaaccordFragment"
+        android:name="org.tubes.icar.honda.HondaaccordFragment"
+        android:label="fragment_hondaaccord"
+        tools:layout="@layout/fragment_hondaaccord" >
+        <action
+            android:id="@+id/action_hondaaccordFragment_to_hondaFragment"
+            app:destination="@id/hondaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaicretaFragment"
+        android:name="org.tubes.icar.hyundai.HyundaicretaFragment"
+        android:label="fragment_hyundaicreta"
+        tools:layout="@layout/fragment_hyundaicreta" >
+        <action
+            android:id="@+id/action_hyundaicretaFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaiioniqFragment"
+        android:name="org.tubes.icar.hyundai.HyundaiioniqFragment"
+        android:label="fragment_hyundaiioniq"
+        tools:layout="@layout/fragment_hyundaiioniq" >
+        <action
+            android:id="@+id/action_hyundaiioniqFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaistariaFragment"
+        android:name="org.tubes.icar.hyundai.HyundaistariaFragment"
+        android:label="fragment_hyundaistaria"
+        tools:layout="@layout/fragment_hyundaistaria" >
+        <action
+            android:id="@+id/action_hyundaistariaFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaikonaFragment"
+        android:name="org.tubes.icar.hyundai.HyundaikonaFragment"
+        android:label="fragment_hyundaikona"
+        tools:layout="@layout/fragment_hyundaikona" >
+        <action
+            android:id="@+id/action_hyundaikonaFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaipalisadeFragment"
+        android:name="org.tubes.icar.hyundai.HyundaipalisadeFragment"
+        android:label="fragment_hyundaipalisade"
+        tools:layout="@layout/fragment_hyundaipalisade" >
+        <action
+            android:id="@+id/action_hyundaipalisadeFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaisantaFragment"
+        android:name="org.tubes.icar.hyundai.HyundaisantaFragment"
+        android:label="HyundaisantaFragment" >
+        <action
+            android:id="@+id/action_hyundaisantaFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaicesterFragment"
+        android:name="org.tubes.icar.hyundai.HyundaicesterFragment"
+        android:label="fragment_hyundaicester"
+        tools:layout="@layout/fragment_hyundaicester" >
+        <action
+            android:id="@+id/action_hyundaicesterFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hyundaitusconFragment"
+        android:name="org.tubes.icar.hyundai.HyundaitusconFragment"
+        android:label="fragment_hyundaituscon"
+        tools:layout="@layout/fragment_hyundaituscon" >
+        <action
+            android:id="@+id/action_hyundaitusconFragment_to_hyundaiFragment"
+            app:destination="@id/hyundaiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsuxeniaFragment"
+        android:name="org.tubes.icar.daihatsu.DaihatsuxeniaFragment"
+        android:label="fragment_daihatsuxenia"
+        tools:layout="@layout/fragment_daihatsuxenia" >
+        <action
+            android:id="@+id/action_daihatsuxeniaFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsusirionFragment"
+        android:name="org.tubes.icar.daihatsu.DaihatsusirionFragment"
+        android:label="fragment_daihatsusirion"
+        tools:layout="@layout/fragment_daihatsusirion" >
+        <action
+            android:id="@+id/action_daihatsusirionFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsuluxioFragment"
+        android:name="org.tubes.icar.daihatsu.DaihatsuluxioFragment"
+        android:label="fragment_daihatsuluxio"
+        tools:layout="@layout/fragment_daihatsuluxio" >
+        <action
+            android:id="@+id/action_daihatsuluxioFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsuteriosFragment"
+        android:name="org.tubes.icar.daihatsu.DaihatsuteriosFragment"
+        android:label="fragment_daihatsuterios"
+        tools:layout="@layout/fragment_daihatsuterios" >
+        <action
+            android:id="@+id/action_daihatsuteriosFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsurockyFragment"
+        android:name="org.tubes.icar.daihatsu.DaihatsurockyFragment"
+        android:label="fragment_daihatsurocky"
+        tools:layout="@layout/fragment_daihatsurocky" >
+        <action
+            android:id="@+id/action_daihatsurockyFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsugrandmaxFragment"
+        android:name="org.tubes.icar.daihatsu.DaihatsugrandmaxFragment"
+        android:label="fragment_daihatsugrandmax"
+        tools:layout="@layout/fragment_daihatsugrandmax" >
+        <action
+            android:id="@+id/action_daihatsugrandmaxFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsusigraFragment"
+        android:name="org.tubes.icar.daihatsu.DaihatsusigraFragment"
+        android:label="fragment_daihatsusigra"
+        tools:layout="@layout/fragment_daihatsusigra" >
+        <action
+            android:id="@+id/action_daihatsusigraFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/daihatsualyaFragment"
+        android:name="org.tubes.icar.daihatsu.DaihatsualyaFragment"
+        android:label="fragment_daihatsualya"
+        tools:layout="@layout/fragment_daihatsualya" >
+        <action
+            android:id="@+id/action_daihatsualyaFragment_to_daihatsuFragment"
+            app:destination="@id/daihatsuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukibalenoFragment"
+        android:name="org.tubes.icar.suzuki.SuzukibalenoFragment"
+        android:label="fragment_suzukibaleno"
+        tools:layout="@layout/fragment_suzukibaleno" >
+        <action
+            android:id="@+id/action_suzukibalenoFragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukiertigaFragment"
+        android:name="org.tubes.icar.suzuki.SuzukiertigaFragment"
+        android:label="fragment_suzukiertiga"
+        tools:layout="@layout/fragment_suzukiertiga" >
+        <action
+            android:id="@+id/action_suzukiertigaFragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukijimmyFragment"
+        android:name="org.tubes.icar.suzuki.SuzukijimmyFragment"
+        android:label="fragment_suzukijimmy"
+        tools:layout="@layout/fragment_suzukijimmy" >
+        <action
+            android:id="@+id/action_suzukijimmyFragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukiignisFragment"
+        android:name="org.tubes.icar.suzuki.SuzukiignisFragment"
+        android:label="fragment_suzukiignis"
+        tools:layout="@layout/fragment_suzukiignis" >
+        <action
+            android:id="@+id/action_suzukiignisFragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukikarimunFragment"
+        android:name="org.tubes.icar.suzuki.SuzukikarimunFragment"
+        android:label="fragment_suzukikarimun"
+        tools:layout="@layout/fragment_suzukikarimun" >
+        <action
+            android:id="@+id/action_suzukikarimunFragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukipresoFragment"
+        android:name="org.tubes.icar.suzuki.SuzukipresoFragment"
+        android:label="fragment_suzukipreso"
+        tools:layout="@layout/fragment_suzukipreso" >
+        <action
+            android:id="@+id/action_suzukipresoFragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukisx4Fragment"
+        android:name="org.tubes.icar.suzuki.Suzukisx4Fragment"
+        android:label="Suzukisx4Fragment" >
+        <action
+            android:id="@+id/action_suzukisx4Fragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/suzukixl7Fragment"
+        android:name="org.tubes.icar.suzuki.Suzukixl7Fragment"
+        android:label="Suzukixl7Fragment" >
+        <action
+            android:id="@+id/action_suzukixl7Fragment_to_suzukiFragment"
+            app:destination="@id/suzukiFragment" />
     </fragment>
 </navigation>

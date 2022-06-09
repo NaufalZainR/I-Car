@@ -3,6 +3,53 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmw.xml" value="0.22" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmw218i.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmw520i.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmw530i.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmw8seris.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmwi8.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmwm4.xml" value="0.22" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmwx7.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_bmwz4.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsualya.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsugrandmax.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsuluxio.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsurocky.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsusigra.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsusirion.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsuterios.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_daihatsuxenia.xml" value="0.22" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_dashboard.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_honda.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hondaaccord.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hondabrio.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hondabrv.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hondacity.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hondacivic.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hondacrv.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hondahrv.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hondamobilio.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundai.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundaicester.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundaicreta.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundaiioniq.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundaikona.xml" value="0.22" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundaipalisade.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundaisanta.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundaistaria.xml" value="0.22" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_hyundaituscon.xml" value="0.29770318021201414" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzuki.xml" value="0.22" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzukibaleno.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzukiertiga.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzukiignis.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzukijimmy.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzukikarimun.xml" value="0.16145833333333334" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzukipreso.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzukisx4.xml" value="0.3333333333333333" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_suzukixl7.xml" value="0.17552083333333332" />
+        <entry key="..\:/Andro/Tubes/I-Car/app/src/main/res/layout/fragment_toyota.xml" value="0.17552083333333332" />
         <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout-v26/activity_bmwi8.xml" value="0.17447916666666666" />
         <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_bmwactivity.xml" value="0.22" />
         <entry key="..\:/Andro/pt2/I-Car/app/src/main/res/layout/activity_bmwi8.xml" value="0.22" />

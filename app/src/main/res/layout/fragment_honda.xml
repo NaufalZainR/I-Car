@@ -46,6 +46,7 @@
 
             //Corola//
             <androidx.cardview.widget.CardView
+                android:id="@+id/btnBrio"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -80,8 +81,7 @@
 
             //Fortuner
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnHrv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -117,8 +117,7 @@
 
             //Rush
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnBrv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -154,8 +153,7 @@
 
             //Raize
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnCrv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -190,8 +188,7 @@
 
             //Vellfire
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnMobilio"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -226,8 +223,7 @@
 
             //Calya
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnCity"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -262,8 +258,7 @@
 
             //Voxy
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnCivic"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -298,8 +293,7 @@
 
             //Sienta
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnAccord"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"

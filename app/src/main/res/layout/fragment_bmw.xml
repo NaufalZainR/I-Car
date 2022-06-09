@@ -45,6 +45,7 @@
 
             //Corola//
             <androidx.cardview.widget.CardView
+                android:id="@+id/btni520"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -61,7 +62,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/corola"
+                        android:src="@drawable/i520"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -79,8 +80,7 @@
 
             //Fortuner
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btni530"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -97,7 +97,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/fortuner"
+                        android:src="@drawable/i530"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -116,6 +116,7 @@
 
             //Rush
             <androidx.cardview.widget.CardView
+                android:id="@+id/btnx7"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -151,8 +152,7 @@
 
             //Raize
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnm4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -222,8 +222,7 @@
 
             //Calya
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btnz4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -258,8 +257,7 @@
 
             //Voxy
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btn218i"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"
@@ -276,7 +274,7 @@
                     android:gravity="center">
 
                     <ImageView
-                        android:src="@drawable/voky"
+                        android:src="@drawable/i218"
                         android:layout_width="80dp"
                         android:layout_height="80dp"/>
 
@@ -294,8 +292,7 @@
 
             //Sienta
             <androidx.cardview.widget.CardView
-
-
+                android:id="@+id/btn8seris"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_columnWeight="1"

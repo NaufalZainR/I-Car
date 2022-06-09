@@ -1,5 +1,6 @@
 package org.tubes.icar
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -57,6 +58,12 @@ class DashboardFragment : Fragment() {
 //        daihatshu
         binding.btnDaihatsu.setOnClickListener{
             findNavController().navigate(R.id.action_dashboardFragment_to_daihatsuFragment)
+        }
+
+//        logout
+        binding.btnLogout.setOnClickListener{
+            val intent = Intent(requireContext(), LoginActivity::class.java)
+            startActivity(intent)
         }
     }
 
